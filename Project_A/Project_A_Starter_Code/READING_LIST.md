@@ -1,6 +1,6 @@
 # Literature sources
 
-The expanded literature review is in ../ECE1512_Project_A_Report_Draft.docx (pages 1–8), with six original diagrams and worked examples. References are on page 15. See ../LITERATURE_REVIEW.md for coverage and the next steps, and literature_references.bib for reusable citations. The two starting readings below are retained as a guide to the baseline and CLAM. Review the cited methods before choosing the extension.
+The literature review appears in Section 2 of the [Project A report](../../Project_A_Report.pdf), with explanatory diagrams, worked examples and a unified reference list. Reusable citations are provided in literature_references.bib. The two starting readings below provide additional context for ABMIL and CLAM.
 
 1. **Ilse, Tomczak and Welling (2018), Attention-based Deep Multiple Instance Learning. ICML, PMLR 80:2127-2136.**
    https://proceedings.mlr.press/v80/ilse18a.html

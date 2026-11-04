@@ -13,7 +13,6 @@ The report files are distributed separately beside the source archive. Keep them
 ## Report and source
 
 - [PDF report](../Project_A_Report.pdf)
-- [Editable Word report](../Project_A_Report.docx)
 - [Source, notebooks, results and figures](../ECE1512_ProjectA_Source_and_Results.zip)
 
 Extract the archive into an empty directory. It contains a `Project_A` folder.

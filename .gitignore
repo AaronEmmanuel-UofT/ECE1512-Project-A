@@ -6,3 +6,6 @@ venv/
 .idea/
 .env
 .env.*
+
+# The submission report is distributed as PDF.
+*.docx
