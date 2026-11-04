@@ -1,0 +1,31 @@
+{
+  "status": "PASS",
+  "checks": [
+    {
+      "dataset": "C16",
+      "epochs": 30,
+      "test_slides": 129,
+      "best_epoch": 3,
+      "status": "PASS"
+    },
+    {
+      "dataset": "C17",
+      "epochs": 30,
+      "test_slides": 200,
+      "best_epoch": 21,
+      "status": "PASS"
+    },
+    {
+      "dataset": "BRACS",
+      "epochs": 30,
+      "test_slides": 86,
+      "best_epoch": 3,
+      "status": "PASS"
+    }
+  ],
+  "training_source_unchanged": true,
+  "evaluation_sources_archived_and_verified": true,
+  "predictions_and_confusion_totals_verified": true,
+  "comparison_table_matches_evaluations": true,
+  "figures_verified": true
+}

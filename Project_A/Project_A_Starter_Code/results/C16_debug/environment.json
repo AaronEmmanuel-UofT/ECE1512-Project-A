@@ -1,0 +1,6 @@
+{
+  "python": "3.12.14",
+  "torch": "2.14.1+cu130",
+  "device": "cpu",
+  "epochs": 2
+}

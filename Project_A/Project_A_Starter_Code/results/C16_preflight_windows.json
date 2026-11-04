@@ -1,0 +1,37 @@
+{
+  "dataset": "CAMELYON16",
+  "file": "C:\\Users\\gmikh\\Documents\\Project A\\Project_A_Starter_Code\\feature\\C16\\patch_feats_pretrain_medical_ssl.h5",
+  "file_bytes": 7222943888,
+  "splits": {
+    "train": {
+      "slides": 242,
+      "class_counts": {
+        "0": 142,
+        "1": 100
+      }
+    },
+    "val": {
+      "slides": 27,
+      "class_counts": {
+        "0": 16,
+        "1": 11
+      }
+    },
+    "test": {
+      "slides": 129,
+      "class_counts": {
+        "0": 80,
+        "1": 49
+      }
+    }
+  },
+  "feature_dimensions": [
+    384
+  ],
+  "patches_min": 153,
+  "patches_max": 55917,
+  "all_feature_values_scanned": true,
+  "errors": [],
+  "warnings": [],
+  "passed": true
+}

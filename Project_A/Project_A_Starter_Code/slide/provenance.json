@@ -1,0 +1,20 @@
+{
+  "revision": "6df7ef4b42b7ecd11633722a392a1efc6d80bcc7",
+  "files": {
+    "test_067.tif": {
+      "bytes": 2415492970,
+      "sha256": "233c10f02f5414c30f69736e432db4c79698fe61e58aa114a27896393f81c812",
+      "source": "https://huggingface.co/datasets/LeonYe/ECE1512-WSI-Feature/resolve/6df7ef4b42b7ecd11633722a392a1efc6d80bcc7/slide/test_067.tif"
+    },
+    "test_068.xml": {
+      "bytes": 76525,
+      "sha256": "89c71c3777f0b12e75da23c146a6c88de9c053786582cb8d4b13d4499fea9a8f",
+      "source": "https://huggingface.co/datasets/LeonYe/ECE1512-WSI-Feature/resolve/6df7ef4b42b7ecd11633722a392a1efc6d80bcc7/slide/test_068.xml"
+    },
+    "test_068.tif": {
+      "bytes": 2530427892,
+      "sha256": "52257fd5922e59953793a5ac6f1adb036328a248f364130cc423f36930458c02",
+      "source": "https://huggingface.co/datasets/LeonYe/ECE1512-WSI-Feature/resolve/6df7ef4b42b7ecd11633722a392a1efc6d80bcc7/slide/test_068.tif"
+    }
+  }
+}

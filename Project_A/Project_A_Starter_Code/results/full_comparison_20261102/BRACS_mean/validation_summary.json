@@ -1,0 +1,8 @@
+{
+  "best_epoch": 20,
+  "best_validation_score": 1.1666119396686554,
+  "kind": "full research run",
+  "matched_baseline_splits": true,
+  "test_evaluated": false,
+  "method": "mean"
+}

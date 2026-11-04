@@ -1,0 +1,16 @@
+{
+  "best_epoch": 16,
+  "best_validation_score": 1.8149351477622986,
+  "kind": "full research run",
+  "matched_baseline_splits": true,
+  "test_evaluated": false,
+  "method": "mean",
+  "test": {
+    "auc": 0.610714316368103,
+    "acc": 65.89147448539734,
+    "f1": 0.5831375122070312,
+    "loss": 0.6551308909204586
+  },
+  "test_evaluation": "/Users/aaronemmanuel/Documents/Codex/2026-10-28/george-sent-the-ece1512-project-a/outputs/Project_A/Project_A_Starter_Code/results/full_comparison_20261102/C16_mean/heldout_test",
+  "test_checkpoint_sha256": "a4715482c477cc925001f5f2fc834f8a3ea10118d54fe3e357771dcf84b45fe3"
+}

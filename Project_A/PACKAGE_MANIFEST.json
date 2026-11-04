@@ -1,0 +1,2081 @@
+{
+  "excluded": "Large external feature HDF5 files, original whole-slide images, environments and caches",
+  "source_archive_commit": "818f347e437c5dc7c60eaad56ea75a74d804758a",
+  "files": [
+    {
+      "path": ".run/00 Baseline results.run.xml",
+      "bytes": 944,
+      "sha256": "da3e1a581813e9216b03e5050c67cccc974ee93209cf0932add862e1019f8676"
+    },
+    {
+      "path": ".run/06 Complete extension comparison.run.xml",
+      "bytes": 988,
+      "sha256": "b873af21d8c2532ae7b2aa4cdb32675a830d42ab674c18db7b3b77f590969c0d"
+    },
+    {
+      "path": "Project_A_Starter_Code/.gitignore",
+      "bytes": 271,
+      "sha256": "f1642f0754f51178930f4b5ec8c923c18caefcdd2af1ac3e2e38e41154f88ad0"
+    },
+    {
+      "path": "Project_A_Starter_Code/ECE1512_ProjectA_Baseline.html",
+      "bytes": 6826516,
+      "sha256": "ec2c8462f84612db7ac7bdc725bd308c42dac01e2e76dc54ad0c973837bab5df"
+    },
+    {
+      "path": "Project_A_Starter_Code/ECE1512_ProjectA_Baseline.ipynb",
+      "bytes": 6469655,
+      "sha256": "0126e59b73624da8857b9d5e6a55116e4fe60bfbe2c400b1ec26e58f700f2207"
+    },
+    {
+      "path": "Project_A_Starter_Code/ECE1512_ProjectA_Student.ipynb",
+      "bytes": 28750,
+      "sha256": "ba9bc5a21e7073bed0b7f5abb75cdab5f6412ec915407ac918d296b1cc04bf0d"
+    },
+    {
+      "path": "Project_A_Starter_Code/EXPERIMENT_PLAN.md",
+      "bytes": 86,
+      "sha256": "de4f6109e0caa3bf9b790f7e9c13251f750a3cbf99a7994aa62872d2fb3385ed"
+    },
+    {
+      "path": "Project_A_Starter_Code/LOCAL_VERIFICATION.md",
+      "bytes": 8005,
+      "sha256": "ccc070a2228207f47ac5af9c621dc7901210896d7fee2ce45e7db096d837afdb"
+    },
+    {
+      "path": "Project_A_Starter_Code/READING_LIST.md",
+      "bytes": 1553,
+      "sha256": "520069c4af6f48d6a1f971618603e2ffe7d9fc3775213548c106cd0b4dba907d"
+    },
+    {
+      "path": "Project_A_Starter_Code/README.md",
+      "bytes": 86,
+      "sha256": "de4f6109e0caa3bf9b790f7e9c13251f750a3cbf99a7994aa62872d2fb3385ed"
+    },
+    {
+      "path": "Project_A_Starter_Code/START_HERE.md",
+      "bytes": 86,
+      "sha256": "de4f6109e0caa3bf9b790f7e9c13251f750a3cbf99a7994aa62872d2fb3385ed"
+    },
+    {
+      "path": "Project_A_Starter_Code/VERIFICATION.md",
+      "bytes": 2190,
+      "sha256": "cf7ce7cbb23fefcd0edf7d6047bad734f906624b3f88849028171688cf345024"
+    },
+    {
+      "path": "Project_A_Starter_Code/config/bracs_medical_ssl_config.yml",
+      "bytes": 1039,
+      "sha256": "3664ae149219b5466347fb58141c033ebed009d79f14badbd6bf7935eed528ad"
+    },
+    {
+      "path": "Project_A_Starter_Code/config/camelyon16_medical_ssl_config.yml",
+      "bytes": 803,
+      "sha256": "7a553f0bdc541d5b49ffe5eb5cf32556f29ecea6195ee7d468698d57a3451a3c"
+    },
+    {
+      "path": "Project_A_Starter_Code/config/camelyon17_medical_ssl_config.yml",
+      "bytes": 1136,
+      "sha256": "2b2ca4a125e5cb57c7ca5564ff638b12c0106e5c670889badb1b023181d9ee01"
+    },
+    {
+      "path": "Project_A_Starter_Code/dataloader.py",
+      "bytes": 11201,
+      "sha256": "b1ac1fe2ec32a83f804f26e7de1e79ec61217371024e3b21a7be8c707147e33e"
+    },
+    {
+      "path": "Project_A_Starter_Code/dataset_csv/README.md",
+      "bytes": 1977,
+      "sha256": "b0480cfd4ecfcc1986aaf1982e589759a74317a3a5d132ce89b2c8433022972e"
+    },
+    {
+      "path": "Project_A_Starter_Code/dataset_csv/bracs.csv",
+      "bytes": 10112,
+      "sha256": "98cc857993b346cc53996071d32e43432e1ad10ff2a83d9786bdd44691a6e157"
+    },
+    {
+      "path": "Project_A_Starter_Code/dataset_csv/camelyon17.csv",
+      "bytes": 17495,
+      "sha256": "e8c9bb50d79662aa6f8dedd4a3253f1bcf0086c470bdaa1cb1062604891473d3"
+    },
+    {
+      "path": "Project_A_Starter_Code/engine.py",
+      "bytes": 2250,
+      "sha256": "af6d03269e5196ee23deb7227b2625e11f27d8514e6382854084063f403ceaec"
+    },
+    {
+      "path": "Project_A_Starter_Code/evaluate_run.py",
+      "bytes": 10237,
+      "sha256": "bbdb3d48873dfaf6d9f3203009826159ff688ec7dc23df24452c7723a7977f7b"
+    },
+    {
+      "path": "Project_A_Starter_Code/fetch_features.py",
+      "bytes": 2082,
+      "sha256": "e904b279e1400c208a523b454e8986a872b535dd09e5b64b7c94da12b32555d3"
+    },
+    {
+      "path": "Project_A_Starter_Code/figures/literature/01_slide_pipeline.png",
+      "bytes": 123196,
+      "sha256": "b5e3a5b6277c07ba500a98c222f4c05c85f20b15fb6d0ae0889cee8cf90912a9"
+    },
+    {
+      "path": "Project_A_Starter_Code/figures/literature/01_slide_pipeline.svg",
+      "bytes": 10955,
+      "sha256": "c857e742921b317a25bb90a5c1c57d64817c8b69b215932d05fd15a9179f6b08"
+    },
+    {
+      "path": "Project_A_Starter_Code/figures/literature/02_pooling_example.png",
+      "bytes": 96344,
+      "sha256": "0cf48fd5eb750246ed1956ee1b67b65df8d3c5a866dfaf5aa20b25022a0630d3"
+    },
+    {
+      "path": "Project_A_Starter_Code/figures/literature/02_pooling_example.svg",
+      "bytes": 10220,
+      "sha256": "7f6fbb96d7f8246843ca545975bc42ee783f9c9f054c2d917ac949a9984e99ae"
+    },
+    {
+      "path": "Project_A_Starter_Code/figures/literature/03_supervision_comparison.png",
+      "bytes": 140916,
+      "sha256": "c6310216cbfed615ed9b1ecf9737816222031ab64868594d52afd4bc235e90a5"
+    },
+    {
+      "path": "Project_A_Starter_Code/figures/literature/03_supervision_comparison.svg",
+      "bytes": 9496,
+      "sha256": "e40ab6c1cf9fb1718ba07cf0f767daf4b0ffd221863c4f31144f5428a68f3882"
+    },
+    {
+      "path": "Project_A_Starter_Code/figures/literature/04_contextual_aggregation.png",
+      "bytes": 177275,
+      "sha256": "c2e3797b86ede0c5ad47a0da266718e3c4e1ee601bce1ab2a3a8e41136fd3f2f"
+    },
+    {
+      "path": "Project_A_Starter_Code/figures/literature/04_contextual_aggregation.svg",
+      "bytes": 12774,
+      "sha256": "b03dc0b1c19690fdc9aab9ede2a45edaf19deb7f889ebbca9297e91b36429c07"
+    },
+    {
+      "path": "Project_A_Starter_Code/figures/literature/05_pseudo_bags.png",
+      "bytes": 151416,
+      "sha256": "9cac36f6df9fb5cc53a7f7f0868e47a5971010cb464a043d4eac571fe655b48c"
+    },
+    {
+      "path": "Project_A_Starter_Code/figures/literature/05_pseudo_bags.svg",
+      "bytes": 10769,
+      "sha256": "d58d392f387f13cdec6fe1f9a2af04adc90f019424a2e5099cfffff1b3091842"
+    },
+    {
+      "path": "Project_A_Starter_Code/figures/literature/06_attention_training.png",
+      "bytes": 191405,
+      "sha256": "5c9e623b3db25f455e83484783096c5d4da78240eff35af3731d6fa27605952f"
+    },
+    {
+      "path": "Project_A_Starter_Code/figures/literature/06_attention_training.svg",
+      "bytes": 11181,
+      "sha256": "2f9414354ede336835d78bcf20603d23bfcffc924f86c2f994f1804c9fb24772"
+    },
+    {
+      "path": "Project_A_Starter_Code/figures/literature/README.md",
+      "bytes": 1689,
+      "sha256": "9c732b372ad6618c7f6d2b0a2a0e5a6cdeeb37591bf1fda8f45f7b46b54330d9"
+    },
+    {
+      "path": "Project_A_Starter_Code/figures/literature_review/01_slide_pipeline.png",
+      "bytes": 121557,
+      "sha256": "0f0792c4a7509db0d13cb6575eb95cb3e1b47d8575d8da784c5d1145bbfbecf8"
+    },
+    {
+      "path": "Project_A_Starter_Code/figures/literature_review/01_slide_pipeline.svg",
+      "bytes": 10953,
+      "sha256": "df951c93d66e0744db310477fc40f7bbfb00891042f69f2ca29212e1cffdbf7d"
+    },
+    {
+      "path": "Project_A_Starter_Code/figures/literature_review/02_pooling_example.png",
+      "bytes": 96344,
+      "sha256": "0cf48fd5eb750246ed1956ee1b67b65df8d3c5a866dfaf5aa20b25022a0630d3"
+    },
+    {
+      "path": "Project_A_Starter_Code/figures/literature_review/02_pooling_example.svg",
+      "bytes": 10220,
+      "sha256": "f47f7b5569d125de6ae02b3a682b797b3a49c99dd5f1ae90c87b0d9a16f37902"
+    },
+    {
+      "path": "Project_A_Starter_Code/figures/literature_review/03_supervision_comparison.png",
+      "bytes": 140916,
+      "sha256": "c6310216cbfed615ed9b1ecf9737816222031ab64868594d52afd4bc235e90a5"
+    },
+    {
+      "path": "Project_A_Starter_Code/figures/literature_review/03_supervision_comparison.svg",
+      "bytes": 9496,
+      "sha256": "b7e7ef891f2026df977c028bc6535fafc269cdecf8afb0b60c4df6cd41b7b99f"
+    },
+    {
+      "path": "Project_A_Starter_Code/figures/literature_review/04_contextual_aggregation.png",
+      "bytes": 177275,
+      "sha256": "c2e3797b86ede0c5ad47a0da266718e3c4e1ee601bce1ab2a3a8e41136fd3f2f"
+    },
+    {
+      "path": "Project_A_Starter_Code/figures/literature_review/04_contextual_aggregation.svg",
+      "bytes": 12774,
+      "sha256": "04a798851250dce0ad8d3c4af38d372c07482ba398e5f28ca7973ca2d8718191"
+    },
+    {
+      "path": "Project_A_Starter_Code/figures/literature_review/05_pseudo_bags.png",
+      "bytes": 151416,
+      "sha256": "9cac36f6df9fb5cc53a7f7f0868e47a5971010cb464a043d4eac571fe655b48c"
+    },
+    {
+      "path": "Project_A_Starter_Code/figures/literature_review/05_pseudo_bags.svg",
+      "bytes": 10769,
+      "sha256": "2009ed7dd146fd395a89c97b72f47c9626b6e734daa47ad6baba7ade4a01f14f"
+    },
+    {
+      "path": "Project_A_Starter_Code/figures/literature_review/06_attention_training.png",
+      "bytes": 191644,
+      "sha256": "caac40cacab3ccfe12b32a17e7350ac6b674cc6a8d375d1c53df6c5f289a6259"
+    },
+    {
+      "path": "Project_A_Starter_Code/figures/literature_review/06_attention_training.svg",
+      "bytes": 11241,
+      "sha256": "152687fee2166c1a1d643eb6d85e03bb4119b2b0087f3d519181565db4b5b110"
+    },
+    {
+      "path": "Project_A_Starter_Code/figures/report/captions.json",
+      "bytes": 7661,
+      "sha256": "d454f9a155d47f397c1005e0d4d3e1b3d6856ef4789a317e4ae6d6639964ca6d"
+    },
+    {
+      "path": "Project_A_Starter_Code/figures/report/figure_01.png",
+      "bytes": 171287,
+      "sha256": "5cb8c404eb387e1df086e10d08dd1f5b03b090a4989cf7cd1815d7fdeb7070bc"
+    },
+    {
+      "path": "Project_A_Starter_Code/figures/report/figure_02.png",
+      "bytes": 145713,
+      "sha256": "e7f841d6e4c818549ffeaf3e87393ef6d5f945c73247ffa71b0048ae33ec5d36"
+    },
+    {
+      "path": "Project_A_Starter_Code/figures/report/figure_03.png",
+      "bytes": 206791,
+      "sha256": "7cf655fbc700c742ca958ab0c1cf52bd0c8298c15bf7ea31c61198727a7a938c"
+    },
+    {
+      "path": "Project_A_Starter_Code/figures/report/figure_04.png",
+      "bytes": 238784,
+      "sha256": "b1ed5a031a0615657625174e3fafdad6366d652aa2f520b297a33f97d2803d6b"
+    },
+    {
+      "path": "Project_A_Starter_Code/figures/report/figure_05.png",
+      "bytes": 206249,
+      "sha256": "f44c7f57f212b3084b30ad2944b01a1c8ae084a7d4f76f1bbc476315e387fc4b"
+    },
+    {
+      "path": "Project_A_Starter_Code/figures/report/figure_06.png",
+      "bytes": 259287,
+      "sha256": "9c659d8886c6bce08ae2995040784265982955d22dae1cc8a69a71c4080ba16b"
+    },
+    {
+      "path": "Project_A_Starter_Code/figures/report/figure_07.png",
+      "bytes": 50861,
+      "sha256": "692b3321721a2254a90f6191548cf9149e96cff49639ae680e076ce4c5891545"
+    },
+    {
+      "path": "Project_A_Starter_Code/figures/report/figure_08.png",
+      "bytes": 34956,
+      "sha256": "3436be42c4ff2c7881bfee51f06459ccc44e26a25f28e619b82b0cb44824f005"
+    },
+    {
+      "path": "Project_A_Starter_Code/figures/report/figure_09.png",
+      "bytes": 72622,
+      "sha256": "8438e09619c4d4efb7b47db862ded217607d78901c214c2532471eccc22daa3c"
+    },
+    {
+      "path": "Project_A_Starter_Code/figures/report/figure_10.png",
+      "bytes": 73098,
+      "sha256": "6f80549ca236ce781ce3fe2ab57d1ce31fb6fac0f62d5d09675139938acc44de"
+    },
+    {
+      "path": "Project_A_Starter_Code/figures/report/figure_11.png",
+      "bytes": 197504,
+      "sha256": "c5337e925a4eb38e796d516b44d5de19f45f547cc19c7cd53bc922b32c9869ba"
+    },
+    {
+      "path": "Project_A_Starter_Code/figures/report/figure_12.png",
+      "bytes": 74234,
+      "sha256": "63ddcac898062a09cdc6d02085b0dd88b3c49c23b12c4c163fd8a7c03bd37ba1"
+    },
+    {
+      "path": "Project_A_Starter_Code/figures/report/figure_13.png",
+      "bytes": 97171,
+      "sha256": "8852e53bf3d9e4f76a2365944f14ade56e5b5f34d7b953228b0dbb9efef8c2f0"
+    },
+    {
+      "path": "Project_A_Starter_Code/figures/report/figure_14.png",
+      "bytes": 142607,
+      "sha256": "bbbaae50068f39b5ab5ab3444a71f5ca1b4393ba27e890a6096a31b0d3af3ecb"
+    },
+    {
+      "path": "Project_A_Starter_Code/figures/report/figure_15.png",
+      "bytes": 1900588,
+      "sha256": "5f7e730431c167562939b7f3159a4647447f31444098d9b99e1f35a57361d673"
+    },
+    {
+      "path": "Project_A_Starter_Code/figures/report/figure_16.png",
+      "bytes": 2704898,
+      "sha256": "3d81bb4f15054430bc0a8e49c41d89e7f8c58adc921efc452e252fd40ed5e8f0"
+    },
+    {
+      "path": "Project_A_Starter_Code/figures/report/figure_17.png",
+      "bytes": 168466,
+      "sha256": "de42850bbcf175354d086af1c6cce03f250cf27a7fd778392d3f28d328fd4f3b"
+    },
+    {
+      "path": "Project_A_Starter_Code/figures/report/figure_18.png",
+      "bytes": 73167,
+      "sha256": "4031b60cd74da6caa2ece235c53a80fd5e9e2bd273cc128ae981aa7c082fd9f3"
+    },
+    {
+      "path": "Project_A_Starter_Code/figures/report/figure_19.png",
+      "bytes": 229163,
+      "sha256": "8bf3892d6c19d1997dfdb7b998d3bc0f77937ffad754d0bb3c06fce219abad6f"
+    },
+    {
+      "path": "Project_A_Starter_Code/figures/report/figure_20.png",
+      "bytes": 97650,
+      "sha256": "9fdfe65a9754d107f050e54ab06177617278b4f505bb001857bc005b40feddd8"
+    },
+    {
+      "path": "Project_A_Starter_Code/figures/report/figure_21.png",
+      "bytes": 101483,
+      "sha256": "4f4ffb58f7c53fb15070595347be5064086cbb7cbfddaa1907c196b9fe4c89e4"
+    },
+    {
+      "path": "Project_A_Starter_Code/figures/report/figure_22.png",
+      "bytes": 189931,
+      "sha256": "0413fde45934ef91bcfaa2218e104010def6af0a0c14c03efb0c63a3e0a94c5d"
+    },
+    {
+      "path": "Project_A_Starter_Code/literature_references.bib",
+      "bytes": 3693,
+      "sha256": "90c8a93b5c630abad66060b04b75570d1afb2d8c1007a3598a71363c0aa280f1"
+    },
+    {
+      "path": "Project_A_Starter_Code/make_literature_figures.py",
+      "bytes": 9183,
+      "sha256": "20897c627db942cef0f6572ad30d0007123212d3c3ee465259355cd73e8dec9a"
+    },
+    {
+      "path": "Project_A_Starter_Code/model.py",
+      "bytes": 2492,
+      "sha256": "fb5ff5b176924ad84e4e8a522b4e7365e4bca9de3cd05bd85f44a901a14968ef"
+    },
+    {
+      "path": "Project_A_Starter_Code/model_fragility.py",
+      "bytes": 4823,
+      "sha256": "bc520166acab7660d98681e1f33a380d2eb21d6c6e93d4ccd952809d44e6c5b2"
+    },
+    {
+      "path": "Project_A_Starter_Code/model_hybrid.py",
+      "bytes": 1283,
+      "sha256": "b17ebaee49963aaee95ea30b96abfb615959c540f0d063e9c031871a9cce0efd"
+    },
+    {
+      "path": "Project_A_Starter_Code/outputs/Project_A/macbook/matplotlib/fontlist-v390.json",
+      "bytes": 125096,
+      "sha256": "d41d2f3662df252e8a63952d9a03e0382f1708f349016751e4bd8e7e0bbb2ca5"
+    },
+    {
+      "path": "Project_A_Starter_Code/preflight.py",
+      "bytes": 5590,
+      "sha256": "613887d36a9921bf4e4e9b83746660a8233dc26e8aabfe159b385ccedada9d9b"
+    },
+    {
+      "path": "Project_A_Starter_Code/report/make_extension_diagrams.py",
+      "bytes": 3182,
+      "sha256": "5ca07c2ceead051aba1ccc27e8b73ff4400a08b3503dbea94e0675c6e34be573"
+    },
+    {
+      "path": "Project_A_Starter_Code/report/make_figures.py",
+      "bytes": 9366,
+      "sha256": "4d7488a1cae75015813bc8d69f06af574be12a5940a9ef52f19eb6afe159c7ca"
+    },
+    {
+      "path": "Project_A_Starter_Code/requirements-locked.txt",
+      "bytes": 256,
+      "sha256": "6426424db7e0d831bf46ce1884005725a08a3c67f0dbe54843f894f1d1f36898"
+    },
+    {
+      "path": "Project_A_Starter_Code/requirements-notebook.txt",
+      "bytes": 48,
+      "sha256": "8f9bb49dfb1c70eaa9546468d893daa46c263e237cd132dcdc9181bfacfb55e9"
+    },
+    {
+      "path": "Project_A_Starter_Code/requirements.txt",
+      "bytes": 109,
+      "sha256": "ba84f80483f37d0f98b8da49fc3a3efd8d66a302aea3d596a7a0569f79af6aec"
+    },
+    {
+      "path": "Project_A_Starter_Code/research/FINAL_PROTOCOL_20261102.md",
+      "bytes": 1738,
+      "sha256": "e54f9d342ad08caf7c7c215c940c31b279b6ff2c063f54ba8a27fee2515fa340"
+    },
+    {
+      "path": "Project_A_Starter_Code/research/PROTOCOL.md",
+      "bytes": 11839,
+      "sha256": "cfb775fa35b7532825a13a8b0f5d975a639c5939cebfa7278a7e2742dfdcc459"
+    },
+    {
+      "path": "Project_A_Starter_Code/research/README.md",
+      "bytes": 364,
+      "sha256": "49618d6267e4d41a4a78ed799d8ca56c7ec99ec048ccfa25a7b7607235795788"
+    },
+    {
+      "path": "Project_A_Starter_Code/research/STATUS.md",
+      "bytes": 388,
+      "sha256": "fff06b6891ecc08cc895fb67d64008cad6deb942267d0a5cb080799672cd81c2"
+    },
+    {
+      "path": "Project_A_Starter_Code/research/analyze_validation.py",
+      "bytes": 7679,
+      "sha256": "48a984461027360e424d32d20d783149f9b220c43774d77cc737f0b5097a4a12"
+    },
+    {
+      "path": "Project_A_Starter_Code/research/complete_comparison.py",
+      "bytes": 5062,
+      "sha256": "cd518a9d0b63ffd73cb60d64a57b498d91493b976e9fccc7042dd074cf907cf9"
+    },
+    {
+      "path": "Project_A_Starter_Code/research/evaluate_extension.py",
+      "bytes": 11829,
+      "sha256": "e3e7203b8e9831193296049eaf0c160c232e25e718213ae94c1971a30b9129ac"
+    },
+    {
+      "path": "Project_A_Starter_Code/research/summarize_comparison.py",
+      "bytes": 12300,
+      "sha256": "a6ac076a04f06601cca685d15178d81b5c5987e541dbeb75ebc824743ff9401b"
+    },
+    {
+      "path": "Project_A_Starter_Code/research/summarize_pilot.py",
+      "bytes": 6622,
+      "sha256": "961929ea4e13518240faf0f6a7d21333c767d0afa58c33e01ac014b0cf965fe5"
+    },
+    {
+      "path": "Project_A_Starter_Code/research/test_fragility.py",
+      "bytes": 7347,
+      "sha256": "56ca59ebde41ea19ae8abe0f053b1f4be0b9346083291303de9af9f9d60c92fb"
+    },
+    {
+      "path": "Project_A_Starter_Code/research/train_extension.py",
+      "bytes": 6106,
+      "sha256": "111458241422d69c5b1a93f18b11a3edb4a6b02acfdb4507b88182b1b8d3ecc6"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/BASELINE_PROTOCOL_20261029.md",
+      "bytes": 1565,
+      "sha256": "66f1c3b6fb005b2d8da4748ba5588343a3ce541c26bebe54669019f2d618c20f"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/BRACS_baseline_windows/best_state.pt",
+      "bytes": 669749,
+      "sha256": "869585488200a3f674a8334f8b52728b1e41dff810d540da4e8f187f4d919483"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/BRACS_baseline_windows/config.json",
+      "bytes": 454,
+      "sha256": "9bc71eb195d96d88772d5b0fe09d223752c4249c232063a074edf7b4ebfbd0f5"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/BRACS_baseline_windows/environment.json",
+      "bytes": 2697,
+      "sha256": "811e7ab20c6762544542c219b02ef29e8684eb776cc78b292aa276fa77d56423"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/BRACS_baseline_windows/heldout_test/confusion_matrix.csv",
+      "bytes": 241,
+      "sha256": "c02646a7f87f7c3a5b256cbde55aec17160b4052d3f3f7b7d91563d217a15945"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/BRACS_baseline_windows/heldout_test/confusion_matrix.png",
+      "bytes": 55409,
+      "sha256": "32fbe135f994bdfdd189e22d59d368cff682d3c1e93c981233103b29e53d0929"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/BRACS_baseline_windows/heldout_test/evaluation_plan.json",
+      "bytes": 1500,
+      "sha256": "a0b8f648ed6f8bfa845ec80df07d940937c56fe85785a50558b8768f4af4529e"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/BRACS_baseline_windows/heldout_test/evaluator_source.py",
+      "bytes": 10237,
+      "sha256": "bbdb3d48873dfaf6d9f3203009826159ff688ec7dc23df24452c7723a7977f7b"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/BRACS_baseline_windows/heldout_test/metrics.json",
+      "bytes": 2006,
+      "sha256": "35127ef02fa5654779c81d0a5f6ffcd25aea4d1ef47b5ac13d98f216963a08ac"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/BRACS_baseline_windows/heldout_test/per_class_metrics.csv",
+      "bytes": 499,
+      "sha256": "1f3e893105a6341c62a3f62ad4ea5ce7b2d4c7eec61e22f69f7ada6075151287"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/BRACS_baseline_windows/heldout_test/predictions.csv",
+      "bytes": 9752,
+      "sha256": "6a0863bc1507e4809a427e1fd988ffcfe713e7a4b65eb19d38d85081d07cc926"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/BRACS_baseline_windows/history.json",
+      "bytes": 7385,
+      "sha256": "847eb5300cb8d9b3d441e264dbfe5dea7115010e29b802504ed2f2ee7247be7a"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/BRACS_baseline_windows/loss_curves.png",
+      "bytes": 46008,
+      "sha256": "05b810957415b3d84760f712b275a3ac705053738cbbc6b00928fb5f40fe9000"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/BRACS_baseline_windows/splits.json",
+      "bytes": 10353,
+      "sha256": "00df4a9a15c380a95d2bd13ebc94c3c6b200b174b3621058c4c3e473acedef7a"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/BRACS_baseline_windows/summary.json",
+      "bytes": 448,
+      "sha256": "d7736c5dcc726b26ba44122ce9c682acf14fbf6e4c06710ff87872e614081a3a"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/BRACS_baseline_windows/validation_summary.json",
+      "bytes": 71,
+      "sha256": "c313d64a2903b1d1d62f22225d163a0689efda884bae6b9ba21c4c1a58cfdc04"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/BRACS_debug_windows/best_state.pt",
+      "bytes": 669749,
+      "sha256": "1372319e4a7b7d878ac5f606aa498280accd6a7c5a88922c7cf4f3a270eecc2a"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/BRACS_debug_windows/config.json",
+      "bytes": 454,
+      "sha256": "9bc71eb195d96d88772d5b0fe09d223752c4249c232063a074edf7b4ebfbd0f5"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/BRACS_debug_windows/environment.json",
+      "bytes": 2720,
+      "sha256": "b3d63b80a4b2ca8b79969e21fe49957b3a817f83647e6f057960ed2bce3309a6"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/BRACS_debug_windows/history.json",
+      "bytes": 498,
+      "sha256": "fc0825bc9ab410db5224f42d4ae20690cb5beff554c5216f4ff42680b09e9159"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/BRACS_debug_windows/loss_curves.png",
+      "bytes": 37408,
+      "sha256": "205fb9f1f77ccbe0765bb64fc181f117a93bc663c77cf3220d0ebdb69a7ac6a3"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/BRACS_debug_windows/splits.json",
+      "bytes": 10353,
+      "sha256": "00df4a9a15c380a95d2bd13ebc94c3c6b200b174b3621058c4c3e473acedef7a"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/BRACS_debug_windows/summary.json",
+      "bytes": 71,
+      "sha256": "6b5c1c1f3b68872c26f660225a85a35640bf79e5d82285e5cac5ff156364ff7e"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/BRACS_feature_provenance.json",
+      "bytes": 567,
+      "sha256": "cde2ec6960c8d4a1e7abcb1763164dd5fab3d4e7386cabc56ae8d8843a67280b"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/BRACS_preflight_windows.json",
+      "bytes": 997,
+      "sha256": "f6f1d307ec2ef598e1cbdcb5e26a804cf5a0cdb83b0565abb4c58529f3ba2300"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/C16_attention/summary.json",
+      "bytes": 956,
+      "sha256": "84f82cb81881758deea74fbb675013f2609e06a5115caebd967b83f83fc8bce4"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/C16_attention/test_067_attention.npz",
+      "bytes": 64086,
+      "sha256": "cd7d384da4a95c67dd348ae3c5b9ea3ae9b5fa127302ec5dc975a83fa951af63"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/C16_attention/test_067_attention.png",
+      "bytes": 1900588,
+      "sha256": "5f7e730431c167562939b7f3159a4647447f31444098d9b99e1f35a57361d673"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/C16_attention/test_068_attention.npz",
+      "bytes": 83915,
+      "sha256": "0ac8a1060e9b594726cd437a77eb4c938d78275a0716a1d84b22b1788728f630"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/C16_attention/test_068_attention.png",
+      "bytes": 2704898,
+      "sha256": "3d81bb4f15054430bc0a8e49c41d89e7f8c58adc921efc452e252fd40ed5e8f0"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/C16_baseline_windows/best_state.pt",
+      "bytes": 664629,
+      "sha256": "4d147e97708fe9fd4b66719ee89336fa125949aff0fe9df42575fcb236c89f61"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/C16_baseline_windows/config.json",
+      "bytes": 481,
+      "sha256": "9bbf4ffc96d2fa8fb1677e4ec3a913daa7b362461500ca4b06d96d67f87464c1"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/C16_baseline_windows/environment.json",
+      "bytes": 2756,
+      "sha256": "58713e334768a696f9f272fea4a721d0122b20587587a8767955f624588d8437"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/C16_baseline_windows/heldout_test/confusion_matrix.csv",
+      "bytes": 53,
+      "sha256": "a47fcacef13ce265ed326e025ac23da0944fcddf71d31b01a2ab5cf36e3273bb"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/C16_baseline_windows/heldout_test/confusion_matrix.png",
+      "bytes": 40253,
+      "sha256": "32ffa8edf0b1babb951485e9babbc33efea8cf86489a43915fbc9ad680bbf256"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/C16_baseline_windows/heldout_test/evaluation_plan.json",
+      "bytes": 1502,
+      "sha256": "06d3fab022a41cb06749462df4a6f88a8939a111e0c7fce738ba450c8906d224"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/C16_baseline_windows/heldout_test/evaluator_source.py",
+      "bytes": 9602,
+      "sha256": "1a21bdc32ac772c3fe99847cb33052d681514beb25c30ef9f549f728d15eb450"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/C16_baseline_windows/heldout_test/metrics.json",
+      "bytes": 1967,
+      "sha256": "e7774f7e17cb0581971b8b6af5ecf91b68641881953821e8f9eee9a55f757ca7"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/C16_baseline_windows/heldout_test/per_class_metrics.csv",
+      "bytes": 193,
+      "sha256": "ffb39eff6644b0722276ce490d96d9bc5b451c68fa453da447eca7fad8d44579"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/C16_baseline_windows/heldout_test/predictions.csv",
+      "bytes": 5314,
+      "sha256": "ed707cc2f17d1ea9df785414db9f68b264a4f86b84967a28035dec0a3bbdd616"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/C16_baseline_windows/history.json",
+      "bytes": 6113,
+      "sha256": "b7228118f96c52b59efdd7c4ccc78966f51e97912ad2c84d0453b8e50f5c867b"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/C16_baseline_windows/loss_curves.png",
+      "bytes": 38092,
+      "sha256": "2a70d48e286e1f279e3de7e1ef02cd2303375b2aeccf62cd93ea033d2f1ac676"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/C16_baseline_windows/splits.json",
+      "bytes": 7250,
+      "sha256": "a15931d70fdf7fa621e5c71cd39065797336239a2ece6a234fc99dbed0e8a5ea"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/C16_baseline_windows/summary.json",
+      "bytes": 56,
+      "sha256": "ffaa8221c7d110590391af383db0053c19fc103e25a8a5379a6c73ecb64fa327"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/C16_debug/best_state.pt",
+      "bytes": 664629,
+      "sha256": "fc6c6fd738bc771d850d0ea1ccf6819885f593565cf078b0c763a9ba73bf0376"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/C16_debug/config.json",
+      "bytes": 409,
+      "sha256": "32d08c8babeaafb18a8a7e4b02e77c469fc577ad0d066567f3b361b9eb44ef51"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/C16_debug/environment.json",
+      "bytes": 86,
+      "sha256": "4359f932ee4b871db872ca2124ae6d811cdc7efbbdbbc4b5b80fafa5a8912732"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/C16_debug/history.json",
+      "bytes": 447,
+      "sha256": "2a43caf0af12fba0d721c70117f1c553ec56251b5b36744de15ee72c45ff1b6b"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/C16_debug/loss_curves.png",
+      "bytes": 47471,
+      "sha256": "bc45acc3703ab4fb817685c76fbddcf9e87425333cdac974d3de2b61de0ea9b6"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/C16_debug/splits.json",
+      "bytes": 6845,
+      "sha256": "5aae7e8ae7188781f27c29fbb24dfb6f8646475a6b3d9cb968899288b8a3321e"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/C16_debug/summary.json",
+      "bytes": 68,
+      "sha256": "bcd96dfe306f12ab4702e9c3dccc6ab58f40b20b2e00e177ff7822c68169b0fc"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/C16_debug_windows/best_state.pt",
+      "bytes": 664629,
+      "sha256": "9d9a241666ce13d79abd5f28dba9b72807d540f5ae1140a79a4288682d95d6a1"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/C16_debug_windows/config.json",
+      "bytes": 481,
+      "sha256": "9bbf4ffc96d2fa8fb1677e4ec3a913daa7b362461500ca4b06d96d67f87464c1"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/C16_debug_windows/environment.json",
+      "bytes": 2716,
+      "sha256": "783e2537071f99d7ae1567079bb300859da1badc6e89e089faff4f30282d12ff"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/C16_debug_windows/history.json",
+      "bytes": 468,
+      "sha256": "c50336a9cd26ca40cfd07629546019c44f3ad720855aa6a608a680d8faa2b1e4"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/C16_debug_windows/loss_curves.png",
+      "bytes": 45241,
+      "sha256": "498c778112db0ad31b94ccedd6588be6fd9f62e49d9b94a27fe795d1bfa412d0"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/C16_debug_windows/splits.json",
+      "bytes": 7250,
+      "sha256": "a15931d70fdf7fa621e5c71cd39065797336239a2ece6a234fc99dbed0e8a5ea"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/C16_debug_windows/summary.json",
+      "bytes": 71,
+      "sha256": "21d6ae0f114499b271aabca835d6ddf50139f416437b7b27947186df3e82003a"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/C16_feature_provenance.json",
+      "bytes": 552,
+      "sha256": "e3394f435301477244aad54963149e2a320ba8d6d93042f267cfacf587da7b87"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/C16_preflight_windows.json",
+      "bytes": 737,
+      "sha256": "0e1699c87ff289ca488d0eeb5bdab629de36f223d9fe1635264e11489ced8c39"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/C16_raw_feature_audit.json",
+      "bytes": 242,
+      "sha256": "328f060fa8a5a0f36fc1fe86186c13cd578b8c03b87c029d6b051de8cd423de3"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/C17_baseline_windows/best_state.pt",
+      "bytes": 666677,
+      "sha256": "64f905a7f714078bb59ea467a346338fe3bc1cf719cf0b4e1bbd43fa5dc2c8b7"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/C17_baseline_windows/config.json",
+      "bytes": 512,
+      "sha256": "861b047c03096d9d6c90b197032857edaa4dcedfa174449cdc8d0b9ade7c52f6"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/C17_baseline_windows/environment.json",
+      "bytes": 2693,
+      "sha256": "50f9b166b8de4e676813e007429e4ef5e62cf6f154e177c580577ed742ae938d"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/C17_baseline_windows/heldout_test/confusion_matrix.csv",
+      "bytes": 119,
+      "sha256": "7c6d0a9e48b4903a499e544f96563073bd6ff72111a2bed0f4488eff163c2430"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/C17_baseline_windows/heldout_test/confusion_matrix.png",
+      "bytes": 47370,
+      "sha256": "f71935135109a388c9b0b994947fc2061e42533dcc1a5c87204cb50719e91b1e"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/C17_baseline_windows/heldout_test/evaluation_plan.json",
+      "bytes": 1503,
+      "sha256": "929680ccb4ff8d46845ba65a4d480fdc2baaf919d0be91d23a6cabbd6f682773"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/C17_baseline_windows/heldout_test/evaluator_source.py",
+      "bytes": 10237,
+      "sha256": "bbdb3d48873dfaf6d9f3203009826159ff688ec7dc23df24452c7723a7977f7b"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/C17_baseline_windows/heldout_test/metrics.json",
+      "bytes": 2011,
+      "sha256": "72ec5c8cbe32e2be1d1c14a5694a2e3d2feaa059c8932b833124b2c99064cc65"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/C17_baseline_windows/heldout_test/per_class_metrics.csv",
+      "bytes": 357,
+      "sha256": "9a34e732351ed8778b16a604d811ad381dd7217850abc0c6a58a2a5ca6a4ae02"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/C17_baseline_windows/heldout_test/predictions.csv",
+      "bytes": 16434,
+      "sha256": "5d24c31d1f8c67ea55757ed079a0553adc02a8aac1f7f7b077aabde3adee0762"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/C17_baseline_windows/history.json",
+      "bytes": 7407,
+      "sha256": "4cce7fc6b6dd4bc836580f99da7af2fd1e7ca448f0bec495126e005fbaba7aae"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/C17_baseline_windows/loss_curves.png",
+      "bytes": 56614,
+      "sha256": "c5cd0694c2fe392654a2a5d495592482c9cd018a74ab2cd4fb615b483130b8d1"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/C17_baseline_windows/splits.json",
+      "bytes": 13530,
+      "sha256": "f15bc5be2fc1dc0127a5eabaf7db5e5bbbc6a28b1607cade724fa3797c3df67f"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/C17_baseline_windows/summary.json",
+      "bytes": 446,
+      "sha256": "0641f128caa3bf47f0e1b6a104d6bf6259f85e05bad4631ee9320e7f7a198497"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/C17_baseline_windows/validation_summary.json",
+      "bytes": 72,
+      "sha256": "c472be398a59fe035a96a4628932df2d1a052e9d09568a765230f34d73f2a2cc"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/C17_debug_windows/best_state.pt",
+      "bytes": 666677,
+      "sha256": "dd1f83bcd60f952e80987b908c1e8ec1f998f17e2d861f1316e4986c277de5c5"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/C17_debug_windows/config.json",
+      "bytes": 512,
+      "sha256": "861b047c03096d9d6c90b197032857edaa4dcedfa174449cdc8d0b9ade7c52f6"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/C17_debug_windows/environment.json",
+      "bytes": 2716,
+      "sha256": "9091193047663087bfcbb435a7c288bb77b034a9f47fc8c89e62f8528222e0b8"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/C17_debug_windows/history.json",
+      "bytes": 496,
+      "sha256": "9af009826cd75326fc7ef827fa77c04249dac1b99e47e8de6abfeb8f4918af05"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/C17_debug_windows/loss_curves.png",
+      "bytes": 48160,
+      "sha256": "799d5c52731a7889af791e6aa736bd1e7c84ff512f9da087640e185691f25d59"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/C17_debug_windows/splits.json",
+      "bytes": 13530,
+      "sha256": "f15bc5be2fc1dc0127a5eabaf7db5e5bbbc6a28b1607cade724fa3797c3df67f"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/C17_debug_windows/summary.json",
+      "bytes": 71,
+      "sha256": "16759f11b78a04055249d62ad1b026b67d61b3d3e7b752d57964b3ecdd7b2b00"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/C17_feature_provenance.json",
+      "bytes": 561,
+      "sha256": "afb229568c09612985c76b6641e44d0ea96dd85d8c4d701355c6990487f1d404"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/C17_preflight_windows.json",
+      "bytes": 1688,
+      "sha256": "92522af0715232cc092a47df5bf9b490c3db2c1e407241ee1b90e3b201968057"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/MAC_BRACS_abmil_seed42/best_state.pt",
+      "bytes": 669749,
+      "sha256": "5b110cf4ad599254fc11d8029f34fb46d7115fa94ad0477e5bcd0706e56745a1"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/MAC_BRACS_abmil_seed42/config.json",
+      "bytes": 433,
+      "sha256": "735cc01a4db36d1d0b5bb603b33c4b7d52ac1fc4a21a50dca078ac50324f740d"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/MAC_BRACS_abmil_seed42/environment.json",
+      "bytes": 2858,
+      "sha256": "9c5dae025a85a441bf131fe0dcee3f9ccc85435d32149d32888bae09b0d59ff8"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/MAC_BRACS_abmil_seed42/history.json",
+      "bytes": 7121,
+      "sha256": "99333c13d4d0bc652188313eb1402e6cb011be4282f7d09d687d4abd61b44ee2"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/MAC_BRACS_abmil_seed42/loss_curves.png",
+      "bytes": 46291,
+      "sha256": "1b545ab310cd074ce1daf0af403a220df8b09738aa72685b25d7a678aa7f4ec2"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/MAC_BRACS_abmil_seed42/splits.json",
+      "bytes": 9809,
+      "sha256": "953251e9805ecb045f86830adae5d7653ce0e9276cf2a5c66e51229d77e945a0"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/MAC_BRACS_abmil_seed42/summary.json",
+      "bytes": 68,
+      "sha256": "de1b79a05f7e91b6172ff864baa13c4913f7f150c72b5cf87eb08728f3964f09"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/MAC_BRACS_attention_mean_seed42/best_state.pt",
+      "bytes": 669749,
+      "sha256": "f1902b5e5021ca3fac166877208e2374c7cff54d6f817f6547f734ef2ce49fd8"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/MAC_BRACS_attention_mean_seed42/config.json",
+      "bytes": 442,
+      "sha256": "65837564159dd7396400ddb38e775ed9345d9fef8efb2ce14552f38d2fb2f59d"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/MAC_BRACS_attention_mean_seed42/environment.json",
+      "bytes": 2908,
+      "sha256": "9d6f2b85e628732a1acc59acbf0e1cd14633d52a243134338bd62033245588f3"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/MAC_BRACS_attention_mean_seed42/history.json",
+      "bytes": 7102,
+      "sha256": "1040381070170d38607f418266faa2c8becdbc3ec765900c19289f3d78e7a364"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/MAC_BRACS_attention_mean_seed42/loss_curves.png",
+      "bytes": 52350,
+      "sha256": "589199e2f03f222d4a77210d7065d4293589e3200ca3a729e1e862626f9996e1"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/MAC_BRACS_attention_mean_seed42/splits.json",
+      "bytes": 9809,
+      "sha256": "953251e9805ecb045f86830adae5d7653ce0e9276cf2a5c66e51229d77e945a0"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/MAC_BRACS_attention_mean_seed42/summary.json",
+      "bytes": 68,
+      "sha256": "63b1bf882861a770f8c2ed2ddd812f77421488aff00ebe5efcb80bac95ad379b"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/MAC_C16_attention_mean_seed42/best_state.pt",
+      "bytes": 664629,
+      "sha256": "6ef417b57499fba5180f7e84e264dd4f299afdd51c0166864c2b507f8f818080"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/MAC_C16_attention_mean_seed42/config.json",
+      "bytes": 468,
+      "sha256": "36c1b7f5e1a88b05c7baa04d038cc19eea10c19137cb44146d8d1c8b55ea77ef"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/MAC_C16_attention_mean_seed42/environment.json",
+      "bytes": 2904,
+      "sha256": "c416c3a2463ce82930391145b2ec037101541f5ed2972675e9fefbc88b24db36"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/MAC_C16_attention_mean_seed42/history.json",
+      "bytes": 5856,
+      "sha256": "3ce172985ca07296f58980a9fca840197cf7db6f517f9e126d4da3b9dd4e909d"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/MAC_C16_attention_mean_seed42/loss_curves.png",
+      "bytes": 40320,
+      "sha256": "7160652dd5b9868436eb20e1d8f47a6a4c795947247c960fb7e7d6915c92a708"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/MAC_C16_attention_mean_seed42/splits.json",
+      "bytes": 6845,
+      "sha256": "5aae7e8ae7188781f27c29fbb24dfb6f8646475a6b3d9cb968899288b8a3321e"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/MAC_C16_attention_mean_seed42/summary.json",
+      "bytes": 53,
+      "sha256": "1a5f9d9bc7ad4218e4441b2ddcf5835f979627ab7cd78fe782884d3fabca1ed1"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/MAC_C17_abmil_seed42/best_state.pt",
+      "bytes": 666677,
+      "sha256": "bffa083cf380c269d4cfbda03e51fab85b7f4222a67fdd807cc46b9ff1201502"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/MAC_C17_abmil_seed42/config.json",
+      "bytes": 489,
+      "sha256": "663116a68ccf2e36044868761ad23502ec39824ffc531aa5ca32554c7e047cf4"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/MAC_C17_abmil_seed42/environment.json",
+      "bytes": 2854,
+      "sha256": "936de02755b860aadd978ebf7ee5fe948394b5c6a68fbedbd582341049e56732"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/MAC_C17_abmil_seed42/history.json",
+      "bytes": 7140,
+      "sha256": "c5ae4a448bd2a46b313cd500abd42b63dca8a5080bb212429f0f968b27d1c3a2"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/MAC_C17_abmil_seed42/loss_curves.png",
+      "bytes": 59555,
+      "sha256": "e10a1ad5d9d00d53991be19c67a950db5369a85c2b515f31af9a82a6b61278ce"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/MAC_C17_abmil_seed42/splits.json",
+      "bytes": 13024,
+      "sha256": "0784d306079d07963eedef05bd0dc516e16c71905fa49eacf9d6df2736db795e"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/MAC_C17_abmil_seed42/summary.json",
+      "bytes": 69,
+      "sha256": "2a2247fc8c31da2ec99e286351e5015a564364a1886b3b4dcf0abffb884d0d5e"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/MAC_C17_attention_mean_seed42/best_state.pt",
+      "bytes": 666677,
+      "sha256": "e8c30e4862e3688f13b49a7b63596c78c7210bef57441ca0450ba7e3987a0ed6"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/MAC_C17_attention_mean_seed42/config.json",
+      "bytes": 498,
+      "sha256": "970ceb8ecf1a3fed7bfbec111d3888ec6023722cffc85cdf118919a36813ea87"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/MAC_C17_attention_mean_seed42/environment.json",
+      "bytes": 2904,
+      "sha256": "09c659bbe275b7f019d5dfd2d9c156cc2af40a007cfdf8ba50cbd5368a5cff2b"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/MAC_C17_attention_mean_seed42/history.json",
+      "bytes": 7122,
+      "sha256": "296aa46f756e19cf6c2f9264808a64fa7a14e0527bc82009119ced1637f2b85f"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/MAC_C17_attention_mean_seed42/loss_curves.png",
+      "bytes": 59811,
+      "sha256": "169e87269b863863bfcfddc31f02d89e3b89381cda1a07b4a783cdbc0fdb7ff9"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/MAC_C17_attention_mean_seed42/splits.json",
+      "bytes": 13024,
+      "sha256": "0784d306079d07963eedef05bd0dc516e16c71905fa49eacf9d6df2736db795e"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/MAC_C17_attention_mean_seed42/summary.json",
+      "bytes": 67,
+      "sha256": "4856c442cfd7345082238625d7c0901859d10cb4b7382d3f558cd10b7957003d"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/baseline_evaluation_20261029/BASELINE_RESULTS.md",
+      "bytes": 7064,
+      "sha256": "5bf439f75e903aea54a8ae92dd1f1b66406d1e7f7750788254ee732fe467fc12"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/baseline_evaluation_20261029/baseline_comparison.csv",
+      "bytes": 1101,
+      "sha256": "7bf029d7c6974dd72e7d7aedb522a7ffe49ce30dc64b629689a33690df91cbde"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/baseline_evaluation_20261029/completion_checks.json",
+      "bytes": 677,
+      "sha256": "013b5ab0f56a6b55b6c972dab95a5fc69d19e5bd54ee6b55cde0576629c71a0a"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/baseline_evaluation_20261029/learning_curves.png",
+      "bytes": 197504,
+      "sha256": "c5337e925a4eb38e796d516b44d5de19f45f547cc19c7cd53bc922b32c9869ba"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/baseline_evaluation_20261029/learning_curves.svg",
+      "bytes": 65271,
+      "sha256": "08b9ea907c55fa0a6b5dd8f2503c9879e075434abddc7af5b4859061a797fb55"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/baseline_evaluation_20261029/report_manifest.json",
+      "bytes": 2939,
+      "sha256": "5b7882baa9886d373cd9c4438a2226f2807679b0589926c7c369132be5c4975d"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/baseline_hardware_20261029.json",
+      "bytes": 119,
+      "sha256": "80ee13715e26dfcc9536257d27296a311e0f44c5f648416740b93ef71eef49ad"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/feature_downloads/BRACS.json",
+      "bytes": 319,
+      "sha256": "75c56451800c1015562734244cbf4b1aa377f433d0c9dd6f05070a77427fa908"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/feature_downloads/C16.json",
+      "bytes": 315,
+      "sha256": "35b45e0e4e805f77e85c6a3de871a5eb8413cce2ed3390d9f84ff1cc69362c04"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/feature_downloads/C17.json",
+      "bytes": 315,
+      "sha256": "e9d9bbdc39de135e347da091381c1c2a1ee56aba3974b8c7256c83a015e87161"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/fragility_development_20261030.json",
+      "bytes": 2468,
+      "sha256": "e259f92fd037ba0360e6099e8497f457b07bc924cffe94dbb683b96b322ce77f"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/fragility_software_checks_20261030.log",
+      "bytes": 9034,
+      "sha256": "fb64ee4332f157579ac156b023402bcd59dea4dd600a11f1f9d485a88907671f"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/BRACS_fragility/best_state.pt",
+      "bytes": 669749,
+      "sha256": "314d59d5f6f0a4f64e2b96a455caf8774b6c719e3d0c4e604c63326fa69e613f"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/BRACS_fragility/config.json",
+      "bytes": 462,
+      "sha256": "5c760a33af2bb399514550bfd5a37870fd1724e50ff863c5b222df5955bca1b8"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/BRACS_fragility/environment.json",
+      "bytes": 3527,
+      "sha256": "481687ae9f4774396e28bdf12936f07e8d58d57544edee3c89d1b119b8dff1b2"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/BRACS_fragility/heldout_test/confusion_matrix.csv",
+      "bytes": 233,
+      "sha256": "0611723db02aecfa83d04f994f8e0e95955e8524e0b56d488abf228c7d52f6dd"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/BRACS_fragility/heldout_test/confusion_matrix.png",
+      "bytes": 51057,
+      "sha256": "30a45aafca63b25b535942bd47ff0f7e6c8fd0607ae6a797301ac40af89e8628"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/BRACS_fragility/heldout_test/diagnostics_joined.csv",
+      "bytes": 31343,
+      "sha256": "11be6e7b501d002d64534520e9793bfda4cdc973446c4bdee26093001c10502b"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/BRACS_fragility/heldout_test/evaluation_plan.json",
+      "bytes": 1720,
+      "sha256": "30d9492244fc656e2b4d2e054518080e1ff0c84cd38a47f75d86c51f40d211bc"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/BRACS_fragility/heldout_test/evaluator_source.py",
+      "bytes": 11829,
+      "sha256": "e3e7203b8e9831193296049eaf0c160c232e25e718213ae94c1971a30b9129ac"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/BRACS_fragility/heldout_test/gate_diagnostics.csv",
+      "bytes": 21670,
+      "sha256": "b1a07906c556ac90001032bc3e9115b57c9db3be99e6e51e47fdda4a298dbffa"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/BRACS_fragility/heldout_test/metrics.json",
+      "bytes": 2211,
+      "sha256": "03e67891421b34e2a34f847581d15b20e3cd2fe9458ef70118125304265336bc"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/BRACS_fragility/heldout_test/per_class_metrics.csv",
+      "bytes": 509,
+      "sha256": "3c2e99e53e1c72f1dd2c8c69d407cd215159fe8cf6ca0055c4d645cec2ec5052"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/BRACS_fragility/heldout_test/predictions.csv",
+      "bytes": 9940,
+      "sha256": "a81b3823fea4f8b7daf11e61e933f094a40dc3cf0f1a6b04aad66d5c90db19ef"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/BRACS_fragility/history.json",
+      "bytes": 7140,
+      "sha256": "d43a71592b624c9d691f747f48c2a8d5b89f66eca10e242d606c5108c653755e"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/BRACS_fragility/loss_curves.png",
+      "bytes": 60804,
+      "sha256": "bb6712017aa356ccf87491f306c08aa395b77585824e4b27c0711496536704f5"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/BRACS_fragility/source_snapshot/dataloader.py",
+      "bytes": 11201,
+      "sha256": "b1ac1fe2ec32a83f804f26e7de1e79ec61217371024e3b21a7be8c707147e33e"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/BRACS_fragility/source_snapshot/engine.py",
+      "bytes": 2250,
+      "sha256": "af6d03269e5196ee23deb7227b2625e11f27d8514e6382854084063f403ceaec"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/BRACS_fragility/source_snapshot/model.py",
+      "bytes": 2492,
+      "sha256": "fb5ff5b176924ad84e4e8a522b4e7365e4bca9de3cd05bd85f44a901a14968ef"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/BRACS_fragility/source_snapshot/model_fragility.py",
+      "bytes": 4823,
+      "sha256": "bc520166acab7660d98681e1f33a380d2eb21d6c6e93d4ccd952809d44e6c5b2"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/BRACS_fragility/source_snapshot/model_hybrid.py",
+      "bytes": 1283,
+      "sha256": "b17ebaee49963aaee95ea30b96abfb615959c540f0d063e9c031871a9cce0efd"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/BRACS_fragility/source_snapshot/research/train_extension.py",
+      "bytes": 6106,
+      "sha256": "111458241422d69c5b1a93f18b11a3edb4a6b02acfdb4507b88182b1b8d3ecc6"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/BRACS_fragility/source_snapshot/utils.py",
+      "bytes": 2488,
+      "sha256": "31e195da1e6be7f653fa2c7fb69fc23bab9e11fd7595345ebe6ed84af83c4ccd"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/BRACS_fragility/splits.json",
+      "bytes": 9809,
+      "sha256": "953251e9805ecb045f86830adae5d7653ce0e9276cf2a5c66e51229d77e945a0"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/BRACS_fragility/summary.json",
+      "bytes": 632,
+      "sha256": "2c0323b4a0bec1450fab437c7f65c6435a31314504ea9f043673951303bda4b3"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/BRACS_fragility/validation_summary.json",
+      "bytes": 187,
+      "sha256": "65df23d1ef3066bc695efc95eb6fcff719555976ae04b4e8d10775c3f608b6d0"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/BRACS_fragility/wall_time.json",
+      "bytes": 44,
+      "sha256": "53a78e8728fd6fb0cbf086eb7e836e681240967b5f1bd28e95c88b3b28b1fbfd"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/BRACS_fragility.log",
+      "bytes": 6643,
+      "sha256": "f856c1704939f01359b191fb48128894f4f87ebacae088196d5caaf42908d49f"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/BRACS_fragility_evaluation.log",
+      "bytes": 220,
+      "sha256": "69266abd9c1462cdece64e309bb068de5b8e907e85fb523824eaa4468453673f"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/BRACS_mean/best_state.pt",
+      "bytes": 669749,
+      "sha256": "a3712a89fae8560795a00573ed2b21ecce1650cff6bf56570cf4fdf86f24c715"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/BRACS_mean/config.json",
+      "bytes": 457,
+      "sha256": "728df657b7ab4621b0ad614a8041c01e8d6c69fa3faa040c48bef1f5e08d3794"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/BRACS_mean/environment.json",
+      "bytes": 3517,
+      "sha256": "0ca4034f4531f7a92351287ad99a74ebd4c558883abc87af428d5b76cfa222e1"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/BRACS_mean/heldout_test/confusion_matrix.csv",
+      "bytes": 233,
+      "sha256": "24ac6942f986ac9f2972aa6deddcbd573dbda9c5982e5f3749cd3d5c4e68f4cd"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/BRACS_mean/heldout_test/confusion_matrix.png",
+      "bytes": 53426,
+      "sha256": "57078e557c143af9e9453bb9bc21b4e255e21ead3c417dd001f10715a569d18a"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/BRACS_mean/heldout_test/evaluation_plan.json",
+      "bytes": 1710,
+      "sha256": "961f56025dfb2783556ea36d358f372e2be55d2e7fcb66c890ac4ad013aec8ac"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/BRACS_mean/heldout_test/evaluator_source.py",
+      "bytes": 11829,
+      "sha256": "e3e7203b8e9831193296049eaf0c160c232e25e718213ae94c1971a30b9129ac"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/BRACS_mean/heldout_test/metrics.json",
+      "bytes": 2199,
+      "sha256": "b705ee1300acd8f42101886e11e0329ce1a0e6047a940f28cf551925dd02b88c"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/BRACS_mean/heldout_test/per_class_metrics.csv",
+      "bytes": 452,
+      "sha256": "b247c37fabe89ec0b64582632b462fbebb41805c84e3df6f5f2ad2ead9bf54ea"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/BRACS_mean/heldout_test/predictions.csv",
+      "bytes": 9711,
+      "sha256": "091b2c31648f1602a49041e0af7a70eea558a2a744ba4ca9947dd37440513df6"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/BRACS_mean/history.json",
+      "bytes": 7137,
+      "sha256": "d47820cda7fc7e0c3f75c56efdc92afb2ea10bae2a1326a70789f75a68f6245d"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/BRACS_mean/loss_curves.png",
+      "bytes": 56577,
+      "sha256": "4d67400d5fa31e6f9a36060fef494a8ed8bcee9f2c842830c625b8c22b5fbfa2"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/BRACS_mean/source_snapshot/dataloader.py",
+      "bytes": 11201,
+      "sha256": "b1ac1fe2ec32a83f804f26e7de1e79ec61217371024e3b21a7be8c707147e33e"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/BRACS_mean/source_snapshot/engine.py",
+      "bytes": 2250,
+      "sha256": "af6d03269e5196ee23deb7227b2625e11f27d8514e6382854084063f403ceaec"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/BRACS_mean/source_snapshot/model.py",
+      "bytes": 2492,
+      "sha256": "fb5ff5b176924ad84e4e8a522b4e7365e4bca9de3cd05bd85f44a901a14968ef"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/BRACS_mean/source_snapshot/model_fragility.py",
+      "bytes": 4823,
+      "sha256": "bc520166acab7660d98681e1f33a380d2eb21d6c6e93d4ccd952809d44e6c5b2"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/BRACS_mean/source_snapshot/model_hybrid.py",
+      "bytes": 1283,
+      "sha256": "b17ebaee49963aaee95ea30b96abfb615959c540f0d063e9c031871a9cce0efd"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/BRACS_mean/source_snapshot/research/train_extension.py",
+      "bytes": 6106,
+      "sha256": "111458241422d69c5b1a93f18b11a3edb4a6b02acfdb4507b88182b1b8d3ecc6"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/BRACS_mean/source_snapshot/utils.py",
+      "bytes": 2488,
+      "sha256": "31e195da1e6be7f653fa2c7fb69fc23bab9e11fd7595345ebe6ed84af83c4ccd"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/BRACS_mean/splits.json",
+      "bytes": 9809,
+      "sha256": "953251e9805ecb045f86830adae5d7653ce0e9276cf2a5c66e51229d77e945a0"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/BRACS_mean/summary.json",
+      "bytes": 620,
+      "sha256": "0258932bb05c5170151ab7f64854ebffef43dea5bb0ec7f63a337ea3eb628913"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/BRACS_mean/validation_summary.json",
+      "bytes": 182,
+      "sha256": "57aa354b96eb742375835042040a9bc8d1d3714567560c7be5b73f2ff38b63fb"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/BRACS_mean/wall_time.json",
+      "bytes": 43,
+      "sha256": "31b409e6fbef3c7cbf878a909db49aedec30741754e0cd7779589d01f84f69bd"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/BRACS_mean.log",
+      "bytes": 6638,
+      "sha256": "8640f0072a75c92c9dd677744169dab009efa845485c6b8fd19aff5c6b692320"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/BRACS_mean_evaluation.log",
+      "bytes": 218,
+      "sha256": "539a231aca60fc74b7e78108bef93671e543ab0fb8dd835ac3592941f076b293"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C16_fragility/best_state.pt",
+      "bytes": 664629,
+      "sha256": "328ff0d0042df54fbe26aa14d175a7b3fd9903c28f41cf8cef3f9c06fbd211d0"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C16_fragility/config.json",
+      "bytes": 488,
+      "sha256": "695348d7d83b845066150b543431317ca6cff274719d5d24718c7e75c3523dcb"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C16_fragility/environment.json",
+      "bytes": 3523,
+      "sha256": "fac069bce50cbd235ff735c81a239f6b0dee2e533e7d2ead68749edd23261e88"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C16_fragility/heldout_test/confusion_matrix.csv",
+      "bytes": 50,
+      "sha256": "dcc18e1233409935916802e51ea539f95184a0138936392cc36228d35756f142"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C16_fragility/heldout_test/confusion_matrix.png",
+      "bytes": 40336,
+      "sha256": "c3854606fba8f24192dbbaa5eb9dbab9ce80965b6f312ffd64a7e6058ace9a53"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C16_fragility/heldout_test/diagnostics_joined.csv",
+      "bytes": 17881,
+      "sha256": "04923cfb8e2fc0fad88dba8378dd0219f37bc63914ad9e94699a0c588b42ba46"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C16_fragility/heldout_test/evaluation_plan.json",
+      "bytes": 1722,
+      "sha256": "f2fcb20a008dc4b40aa3e795ded35675b88082e7deed41d9575eff8bee9ca433"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C16_fragility/heldout_test/evaluator_source.py",
+      "bytes": 11829,
+      "sha256": "e3e7203b8e9831193296049eaf0c160c232e25e718213ae94c1971a30b9129ac"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C16_fragility/heldout_test/gate_diagnostics.csv",
+      "bytes": 12871,
+      "sha256": "7a5931a661b322edfb0c37ba2fa39491a02b51f1d8812234d8524c64708be6d4"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C16_fragility/heldout_test/metrics.json",
+      "bytes": 2174,
+      "sha256": "c8577a644c70c9ec9e5d3c3766f7a032057bbb4d29f393e107f020719ddd796d"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C16_fragility/heldout_test/per_class_metrics.csv",
+      "bytes": 201,
+      "sha256": "bcf924adb31292baf974b2c96f01665396693a12cd290f323f702e0ba534ab9d"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C16_fragility/heldout_test/predictions.csv",
+      "bytes": 5201,
+      "sha256": "303711e550ac698e2ca794b36485f318b84508c59502f75e55d12b2dff8b843e"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C16_fragility/history.json",
+      "bytes": 6187,
+      "sha256": "ac1b25e77d5c97fc4453a7f711e215f289aa5180169cebf0b1ef936c484b5cc8"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C16_fragility/loss_curves.png",
+      "bytes": 52027,
+      "sha256": "2c0bb74dd8c9ccd7019320f56fbbc032470b799e9cf80df809fe1d128ee6c9d2"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C16_fragility/source_snapshot/dataloader.py",
+      "bytes": 11201,
+      "sha256": "b1ac1fe2ec32a83f804f26e7de1e79ec61217371024e3b21a7be8c707147e33e"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C16_fragility/source_snapshot/engine.py",
+      "bytes": 2250,
+      "sha256": "af6d03269e5196ee23deb7227b2625e11f27d8514e6382854084063f403ceaec"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C16_fragility/source_snapshot/model.py",
+      "bytes": 2492,
+      "sha256": "fb5ff5b176924ad84e4e8a522b4e7365e4bca9de3cd05bd85f44a901a14968ef"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C16_fragility/source_snapshot/model_fragility.py",
+      "bytes": 4823,
+      "sha256": "bc520166acab7660d98681e1f33a380d2eb21d6c6e93d4ccd952809d44e6c5b2"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C16_fragility/source_snapshot/model_hybrid.py",
+      "bytes": 1283,
+      "sha256": "b17ebaee49963aaee95ea30b96abfb615959c540f0d063e9c031871a9cce0efd"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C16_fragility/source_snapshot/research/train_extension.py",
+      "bytes": 6106,
+      "sha256": "111458241422d69c5b1a93f18b11a3edb4a6b02acfdb4507b88182b1b8d3ecc6"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C16_fragility/source_snapshot/utils.py",
+      "bytes": 2488,
+      "sha256": "31e195da1e6be7f653fa2c7fb69fc23bab9e11fd7595345ebe6ed84af83c4ccd"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C16_fragility/splits.json",
+      "bytes": 6845,
+      "sha256": "5aae7e8ae7188781f27c29fbb24dfb6f8646475a6b3d9cb968899288b8a3321e"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C16_fragility/summary.json",
+      "bytes": 615,
+      "sha256": "4182a0d48d78efb2eb25b14acc611837cb30ed46d832001e4cdeb5fe0def6046"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C16_fragility/validation_summary.json",
+      "bytes": 172,
+      "sha256": "8e149239ff755b2fea385c77535f1abf2c750b4bd43ffe7d7bf5c233c4b20e16"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C16_fragility/wall_time.json",
+      "bytes": 44,
+      "sha256": "06ce30a2b4647e41eaded5dff8a9b31b6b03c2794302aea3ad0bd769a761a519"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C16_fragility.log",
+      "bytes": 5680,
+      "sha256": "59355a72d2a60c85752303b05daa1f3851c105f8bfa350d7ac98790212374a17"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C16_fragility_evaluation.log",
+      "bytes": 273,
+      "sha256": "acdd1779754d3dc7777d12dfdde68dd6f75f60f4567d7aed15c0df205ba7f103"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C16_mean/best_state.pt",
+      "bytes": 664629,
+      "sha256": "a4715482c477cc925001f5f2fc834f8a3ea10118d54fe3e357771dcf84b45fe3"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C16_mean/config.json",
+      "bytes": 483,
+      "sha256": "c5b75349b4d11ea46110ffa64ce076af208360221ffb86b237abd8cd581ff0b1"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C16_mean/environment.json",
+      "bytes": 3513,
+      "sha256": "16183978e802fb05d6a5ae40eed75bbf0a17c88ae3cfc20a5487ed45c7a80ff9"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C16_mean/heldout_test/confusion_matrix.csv",
+      "bytes": 51,
+      "sha256": "abb9c0c52199504283a23b372f298a2e5369db35d813bb7096110944ccbe01b8"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C16_mean/heldout_test/confusion_matrix.png",
+      "bytes": 40706,
+      "sha256": "13fccb7623a498eb04a7f341ef4630c545517003137f3bc6d0a2f32311d5091d"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C16_mean/heldout_test/evaluation_plan.json",
+      "bytes": 1712,
+      "sha256": "7ae56480eaea6982747ac5cb5d54dd95ffb007272f53cd76cd95af0ba2f26fbd"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C16_mean/heldout_test/evaluator_source.py",
+      "bytes": 11829,
+      "sha256": "e3e7203b8e9831193296049eaf0c160c232e25e718213ae94c1971a30b9129ac"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C16_mean/heldout_test/metrics.json",
+      "bytes": 2202,
+      "sha256": "ceac479043b43a1c55bcda31d69028649e0d83f1e4053ea7ad55f5f828863dc6"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C16_mean/heldout_test/per_class_metrics.csv",
+      "bytes": 189,
+      "sha256": "bcd510e8ba0d2dd1a4419760a1deb3f0ad33e7c337f9973184e54ccbd86d638f"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C16_mean/heldout_test/predictions.csv",
+      "bytes": 5074,
+      "sha256": "2d32c86cc68c1638cf81ccaac14f03694590f689076d3494e9c1f056509fda88"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C16_mean/history.json",
+      "bytes": 7110,
+      "sha256": "a80629cbf431dd11a2e3678df063b41098575d00e29745801e773815685646b4"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C16_mean/loss_curves.png",
+      "bytes": 68769,
+      "sha256": "19f8d3e64785579855c6a33d1eb0a1031499b283f7e59737460275ab59121a69"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C16_mean/source_snapshot/dataloader.py",
+      "bytes": 11201,
+      "sha256": "b1ac1fe2ec32a83f804f26e7de1e79ec61217371024e3b21a7be8c707147e33e"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C16_mean/source_snapshot/engine.py",
+      "bytes": 2250,
+      "sha256": "af6d03269e5196ee23deb7227b2625e11f27d8514e6382854084063f403ceaec"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C16_mean/source_snapshot/model.py",
+      "bytes": 2492,
+      "sha256": "fb5ff5b176924ad84e4e8a522b4e7365e4bca9de3cd05bd85f44a901a14968ef"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C16_mean/source_snapshot/model_fragility.py",
+      "bytes": 4823,
+      "sha256": "bc520166acab7660d98681e1f33a380d2eb21d6c6e93d4ccd952809d44e6c5b2"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C16_mean/source_snapshot/model_hybrid.py",
+      "bytes": 1283,
+      "sha256": "b17ebaee49963aaee95ea30b96abfb615959c540f0d063e9c031871a9cce0efd"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C16_mean/source_snapshot/research/train_extension.py",
+      "bytes": 6106,
+      "sha256": "111458241422d69c5b1a93f18b11a3edb4a6b02acfdb4507b88182b1b8d3ecc6"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C16_mean/source_snapshot/utils.py",
+      "bytes": 2488,
+      "sha256": "31e195da1e6be7f653fa2c7fb69fc23bab9e11fd7595345ebe6ed84af83c4ccd"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C16_mean/splits.json",
+      "bytes": 6845,
+      "sha256": "5aae7e8ae7188781f27c29fbb24dfb6f8646475a6b3d9cb968899288b8a3321e"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C16_mean/summary.json",
+      "bytes": 618,
+      "sha256": "72ffc03bf6401f293a4ca223b76b9fb4bd70408ef1d449a404089e436bf53f9c"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C16_mean/validation_summary.json",
+      "bytes": 182,
+      "sha256": "914562dc73c7d1e3a25db70c9beb6569132103a22a6caa87604291bfda70ab41"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C16_mean/wall_time.json",
+      "bytes": 44,
+      "sha256": "bac38d17c1115cb1d66d445a56d40d87f73a5b4afcfc1e7d81a53dc11872255a"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C16_mean.log",
+      "bytes": 6607,
+      "sha256": "3a73eb88b233022de3526b419d9d6fbce1e2ccdfb26d12d4c253f856c01c3579"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C16_mean_evaluation.log",
+      "bytes": 271,
+      "sha256": "15cb95623b1027f0dca29044972a54ac657db359827305e646dfe0d6339d887b"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C17_fragility/best_state.pt",
+      "bytes": 666677,
+      "sha256": "7b5513d90f5d2d663bbe96b1ad2d5bfe7def140b89d8f4c37c2eac9ca0bdb560"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C17_fragility/config.json",
+      "bytes": 518,
+      "sha256": "4bced656b29b5005cc88df98acfb4e163d75cfea1bb2f822cc78d0f59b44386d"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C17_fragility/environment.json",
+      "bytes": 3523,
+      "sha256": "f980541890c95dac173556ee401f8ff1da033747dc269c1774b6061ff4a6594b"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C17_fragility/heldout_test/confusion_matrix.csv",
+      "bytes": 114,
+      "sha256": "d7de62270a34723da897321c702a1d640cff5407fc5097896dcaca1632b11d65"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C17_fragility/heldout_test/confusion_matrix.png",
+      "bytes": 46031,
+      "sha256": "b815bfc492d52f9246e90d749d0fddbf4db821468516e1d7585e130ea10210e5"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C17_fragility/heldout_test/diagnostics_joined.csv",
+      "bytes": 47022,
+      "sha256": "cd1c89519396c313fd9b899ebb418aeaaebf4a26d4d94eb57ed1902bb94a6ded"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C17_fragility/heldout_test/evaluation_plan.json",
+      "bytes": 1722,
+      "sha256": "b19982e054e98df20d10aa9890fa7994303e41efaa3d123fc39db423164ebea9"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C17_fragility/heldout_test/evaluator_source.py",
+      "bytes": 11829,
+      "sha256": "e3e7203b8e9831193296049eaf0c160c232e25e718213ae94c1971a30b9129ac"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C17_fragility/heldout_test/gate_diagnostics.csv",
+      "bytes": 33582,
+      "sha256": "bfa64dfe3d5f415d5ce518114674b56efa68207c93f63f67a55268bb4afe9591"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C17_fragility/heldout_test/metrics.json",
+      "bytes": 2211,
+      "sha256": "57d78dcc4b2097afdc1fb57bc97aad5f015acc924200c3d9e5babce0d3e3ec39"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C17_fragility/heldout_test/per_class_metrics.csv",
+      "bytes": 319,
+      "sha256": "a1bcb9ce2e4df1b62f0c1f62cc09de1e0db89bbe5dcc3c7776c4cf64f629682d"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C17_fragility/heldout_test/predictions.csv",
+      "bytes": 15778,
+      "sha256": "7ea76046b6407bc02ec9c77b5bbefd6799863c8f2b0352cf8e9e0d32b1b0b2cd"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C17_fragility/history.json",
+      "bytes": 7136,
+      "sha256": "5cbcd081673892757c283f885c9742606d49d941e5a7b4cea0a5fee468022b30"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C17_fragility/loss_curves.png",
+      "bytes": 65339,
+      "sha256": "93ca7a0565a943783386ae91f766472d202e5bdc35c4b6a5c0ee0a932b14fe0f"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C17_fragility/source_snapshot/dataloader.py",
+      "bytes": 11201,
+      "sha256": "b1ac1fe2ec32a83f804f26e7de1e79ec61217371024e3b21a7be8c707147e33e"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C17_fragility/source_snapshot/engine.py",
+      "bytes": 2250,
+      "sha256": "af6d03269e5196ee23deb7227b2625e11f27d8514e6382854084063f403ceaec"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C17_fragility/source_snapshot/model.py",
+      "bytes": 2492,
+      "sha256": "fb5ff5b176924ad84e4e8a522b4e7365e4bca9de3cd05bd85f44a901a14968ef"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C17_fragility/source_snapshot/model_fragility.py",
+      "bytes": 4823,
+      "sha256": "bc520166acab7660d98681e1f33a380d2eb21d6c6e93d4ccd952809d44e6c5b2"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C17_fragility/source_snapshot/model_hybrid.py",
+      "bytes": 1283,
+      "sha256": "b17ebaee49963aaee95ea30b96abfb615959c540f0d063e9c031871a9cce0efd"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C17_fragility/source_snapshot/research/train_extension.py",
+      "bytes": 6106,
+      "sha256": "111458241422d69c5b1a93f18b11a3edb4a6b02acfdb4507b88182b1b8d3ecc6"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C17_fragility/source_snapshot/utils.py",
+      "bytes": 2488,
+      "sha256": "31e195da1e6be7f653fa2c7fb69fc23bab9e11fd7595345ebe6ed84af83c4ccd"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C17_fragility/splits.json",
+      "bytes": 13024,
+      "sha256": "0784d306079d07963eedef05bd0dc516e16c71905fa49eacf9d6df2736db795e"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C17_fragility/summary.json",
+      "bytes": 629,
+      "sha256": "20edf8b7c84ce130577d1989506df384baca8d8a093ec69b590e6cef45e696ad"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C17_fragility/validation_summary.json",
+      "bytes": 187,
+      "sha256": "54b920b7d70980826e5c541a142a40007392ef3627647572de0c33973729e8f6"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C17_fragility/wall_time.json",
+      "bytes": 44,
+      "sha256": "c4a9a0af202977c49a2d88d71704e9e73365f211aa971046ee1e4a5c2280d03f"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C17_fragility.log",
+      "bytes": 6641,
+      "sha256": "7defa10921ff45093bc017cfa37b5aeb65d8fb2384bd09761191b4aece821f9c"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C17_fragility_evaluation.log",
+      "bytes": 356,
+      "sha256": "4dcb1f13c647264efcd0e38c163f003df6ca0f193b07980f22ca2de27000e7b5"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C17_mean/best_state.pt",
+      "bytes": 666677,
+      "sha256": "d34b30338418bb37df397aec5898dceb7f7254b7ab580fdf0f97807eab01b043"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C17_mean/config.json",
+      "bytes": 513,
+      "sha256": "a3178dc49fe34be376d68eb6bb7a70251e6261ed1cb64c8c23e4b411d5eb07cb"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C17_mean/environment.json",
+      "bytes": 3513,
+      "sha256": "90830a4850e0e81d7708f77f66155369c0c5a04bbc5280ddb0ead8993db69565"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C17_mean/heldout_test/confusion_matrix.csv",
+      "bytes": 114,
+      "sha256": "3f595399d22bb67cf247c00f152594bccf87318ad15b84c78f5b322f4bf1522d"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C17_mean/heldout_test/confusion_matrix.png",
+      "bytes": 44953,
+      "sha256": "389ecc6eb68280976c4dc010a3db3118a88db785d90e732118ddb7e3d382ed62"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C17_mean/heldout_test/evaluation_plan.json",
+      "bytes": 1711,
+      "sha256": "b8bd8b654d04bdafc3328bd601da344c35137de304c32c07492cbb88faa05cf8"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C17_mean/heldout_test/evaluator_source.py",
+      "bytes": 11829,
+      "sha256": "e3e7203b8e9831193296049eaf0c160c232e25e718213ae94c1971a30b9129ac"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C17_mean/heldout_test/metrics.json",
+      "bytes": 2201,
+      "sha256": "4c002680074c730c3da8df886d272c4018095559af367717f9ad8fda16088023"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C17_mean/heldout_test/per_class_metrics.csv",
+      "bytes": 206,
+      "sha256": "65ecae556664c7e1c8ea9565b83acb636a2a3596fe86793fad3adbff9becc144"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C17_mean/heldout_test/predictions.csv",
+      "bytes": 15239,
+      "sha256": "9fdb75ea8061fbc9cf1533ae7c99335601843f151968bbf3874b943f846c82b5"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C17_mean/history.json",
+      "bytes": 7111,
+      "sha256": "910ff4a8db419bfec4b1aeb20ae07d3e7e2da12f4dc7fb0b77a2f0d952e5ad1d"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C17_mean/loss_curves.png",
+      "bytes": 51576,
+      "sha256": "0ca665255f1a48c4f93ee739b9200b668f27929c87ad9464ae8f75f36c2dcdc9"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C17_mean/source_snapshot/dataloader.py",
+      "bytes": 11201,
+      "sha256": "b1ac1fe2ec32a83f804f26e7de1e79ec61217371024e3b21a7be8c707147e33e"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C17_mean/source_snapshot/engine.py",
+      "bytes": 2250,
+      "sha256": "af6d03269e5196ee23deb7227b2625e11f27d8514e6382854084063f403ceaec"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C17_mean/source_snapshot/model.py",
+      "bytes": 2492,
+      "sha256": "fb5ff5b176924ad84e4e8a522b4e7365e4bca9de3cd05bd85f44a901a14968ef"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C17_mean/source_snapshot/model_fragility.py",
+      "bytes": 4823,
+      "sha256": "bc520166acab7660d98681e1f33a380d2eb21d6c6e93d4ccd952809d44e6c5b2"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C17_mean/source_snapshot/model_hybrid.py",
+      "bytes": 1283,
+      "sha256": "b17ebaee49963aaee95ea30b96abfb615959c540f0d063e9c031871a9cce0efd"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C17_mean/source_snapshot/research/train_extension.py",
+      "bytes": 6106,
+      "sha256": "111458241422d69c5b1a93f18b11a3edb4a6b02acfdb4507b88182b1b8d3ecc6"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C17_mean/source_snapshot/utils.py",
+      "bytes": 2488,
+      "sha256": "31e195da1e6be7f653fa2c7fb69fc23bab9e11fd7595345ebe6ed84af83c4ccd"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C17_mean/splits.json",
+      "bytes": 13024,
+      "sha256": "0784d306079d07963eedef05bd0dc516e16c71905fa49eacf9d6df2736db795e"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C17_mean/summary.json",
+      "bytes": 618,
+      "sha256": "3a4d267a2d9b9b027165e143a9adbe4f365e75fb074c46cf12f53437f44f3ab0"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C17_mean/validation_summary.json",
+      "bytes": 181,
+      "sha256": "c264d66c0088fa1aaa27ad0d4a78e50e67d35814de441f3ec556cded4287b8ef"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C17_mean/wall_time.json",
+      "bytes": 44,
+      "sha256": "63dfa214862489f1a6a1a81afab040788f3ca64d15b0f04ac7621ecc413ca6bc"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C17_mean.log",
+      "bytes": 6589,
+      "sha256": "5e0a18ec46bf0e2344c6930c7d0e48194ccc3e58ae0c4603adb9ac24a6c93957"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/C17_mean_evaluation.log",
+      "bytes": 355,
+      "sha256": "e104c3105b3b012646729c6a27d71db62b41f5eb8bea374ff1348f5d6695ce74"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/comparison.csv",
+      "bytes": 1185,
+      "sha256": "5aea327cd0e74af54d131277a5459d27531efb66f4facca0c6809df470d983ce"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/comparison_audit.json",
+      "bytes": 3538,
+      "sha256": "61dd70e257b875566e0b1029adf686206be42a5a39c7e91e7504ee65cbbc2289"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/current_environment.json",
+      "bytes": 403,
+      "sha256": "73f52d3186d6831593046cfa8249d6bbfe7fab65efc1a9ac2cfd693361980866"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/fragility_confusion.png",
+      "bytes": 101483,
+      "sha256": "4f4ffb58f7c53fb15070595347be5064086cbb7cbfddaa1907c196b9fe4c89e4"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/full_learning_curves.png",
+      "bytes": 229163,
+      "sha256": "8bf3892d6c19d1997dfdb7b998d3bc0f77937ffad754d0bb3c06fce219abad6f"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/gate_summary.csv",
+      "bytes": 726,
+      "sha256": "5f5a7524ae93b67432d43771581f3eb6ca498bf5d59fce1ef4713cbdaf944010"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/heldout_gate_diagnostics.png",
+      "bytes": 189931,
+      "sha256": "0413fde45934ef91bcfaa2218e104010def6af0a0c14c03efb0c63a3e0a94c5d"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/per_class_comparison.csv",
+      "bytes": 960,
+      "sha256": "a3e1f3d08b02cdde5f91597880fcd9c8498c994fe047c31f59fd5f3e4c5047b3"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/pooling_controls.png",
+      "bytes": 97650,
+      "sha256": "9fdfe65a9754d107f050e54ab06177617278b4f505bb001857bc005b40feddd8"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/full_comparison_20261102/status.json",
+      "bytes": 680,
+      "sha256": "39b8cd9c849067d5ae59a0184baf4a193a414e15c00f6f9f0c8a8584e178f600"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/windows_packages.txt",
+      "bytes": 1142,
+      "sha256": "4e22df916e9e6602cc7fc423f952ceb1fe243c1c3105765d434dcbd33d9a54fd"
+    },
+    {
+      "path": "Project_A_Starter_Code/results/windows_verification.json",
+      "bytes": 1827,
+      "sha256": "788f2cc537d9f1ebc832193e5f549e53cccd2ae977b70f102cc5a5f174c74ce7"
+    },
+    {
+      "path": "Project_A_Starter_Code/slide/provenance.json",
+      "bytes": 928,
+      "sha256": "ec8d3d333e592d29edb898accd1e17fe32cd96ef93d442f77902720403d0a1e1"
+    },
+    {
+      "path": "Project_A_Starter_Code/smoke_test.py",
+      "bytes": 3182,
+      "sha256": "3677a44f3d3ae1412a11512546c71f7fade36f1eaf540da12f85b9c70c27eb8c"
+    },
+    {
+      "path": "Project_A_Starter_Code/smoke_test_extension.py",
+      "bytes": 1874,
+      "sha256": "0c1261577d0cd7c757f2481615c934d0a9552147edf1855e664b29d2d03b7c9c"
+    },
+    {
+      "path": "Project_A_Starter_Code/summarize_baselines.py",
+      "bytes": 14371,
+      "sha256": "9269c997febad6d6bcae7a2c13b06837be6be5ea7ff7187f072301ef0d726314"
+    },
+    {
+      "path": "Project_A_Starter_Code/test_evaluate_run.py",
+      "bytes": 4571,
+      "sha256": "4c61cb317f80146f3e48954fc3a1c195d2e15c9503778f58f55458bb6ae12000"
+    },
+    {
+      "path": "Project_A_Starter_Code/train.py",
+      "bytes": 6322,
+      "sha256": "b9f85a95fd2db7acbaca41d2d7c1f4fa1e7b43ef5b4422f29c4ae0511fdf212c"
+    },
+    {
+      "path": "Project_A_Starter_Code/utils.py",
+      "bytes": 2488,
+      "sha256": "31e195da1e6be7f653fa2c7fb69fc23bab9e11fd7595345ebe6ed84af83c4ccd"
+    },
+    {
+      "path": "Project_A_Starter_Code/verification_environment.txt",
+      "bytes": 2136,
+      "sha256": "1290642644148951c22fd422aa9717cc9b2f929649de64abb0182d931fdba0db"
+    },
+    {
+      "path": "Project_A_Starter_Code/verify_baseline.py",
+      "bytes": 7722,
+      "sha256": "ed33449ba4c465a899a570fe7c1e0b741447c862d7d7bc845b19bd831629a9b0"
+    },
+    {
+      "path": "Project_A_Starter_Code/visualize_baseline.py",
+      "bytes": 2220,
+      "sha256": "66132b1520a616bf78c0690322467dbd36d9353a015865c0086abf812c12d228"
+    },
+    {
+      "path": "Project_A_Starter_Code/wsi_visualization.py",
+      "bytes": 11063,
+      "sha256": "ee8c3b192d6784de0a461407776bd3f379fe85aee7a00be7e640f060b70af244"
+    },
+    {
+      "path": "README.md",
+      "bytes": 8012,
+      "sha256": "49c3b99ac3a006a73664d6ce8cacdfdf4737fbc168978a4e7b547c1126cbc431"
+    },
+    {
+      "path": "macbook/PROTOCOL.md",
+      "bytes": 2348,
+      "sha256": "f86f616c20c295c543afc8741d8266f6d79449ec5155c37f9c16e747136cdd06"
+    },
+    {
+      "path": "macbook/comparison.csv",
+      "bytes": 692,
+      "sha256": "b6443e69ec64135d3b6db09331b9bcd85b75cd2b18ae895851371491765a973c"
+    },
+    {
+      "path": "macbook/evaluate_saved.py",
+      "bytes": 4023,
+      "sha256": "498dbc06a1452aced7d521d9f30bed419b497d56c8e6ed6140fa43d26f392306"
+    },
+    {
+      "path": "macbook/held_out/BRACS_abmil.json",
+      "bytes": 2787,
+      "sha256": "49eb76853a3f96392031d169f2ea878462542f47ccbcb85612db97966476b268"
+    },
+    {
+      "path": "macbook/held_out/BRACS_attention_mean.json",
+      "bytes": 2807,
+      "sha256": "8c3a2f9585c2deaf98bafce1eabde89bf56f846f28b1697ba814edbdbac2f3b4"
+    },
+    {
+      "path": "macbook/held_out/C16_abmil.json",
+      "bytes": 3306,
+      "sha256": "a1d3bad4442abe54228f6f22dfdcf77ac02ab760f23ae776b16d8d7ca282af97"
+    },
+    {
+      "path": "macbook/held_out/C16_attention_mean.json",
+      "bytes": 3327,
+      "sha256": "ab53aba8dec418307397fca93373f4914019d3a2bdadd6e5a7edd9ef37d974bd"
+    },
+    {
+      "path": "macbook/held_out/C17_abmil.json",
+      "bytes": 6445,
+      "sha256": "e1aae4b0002cc6adef4a7cf84391ef05c18118d02cec76c37790f6f22ff8dd17"
+    },
+    {
+      "path": "macbook/held_out/C17_attention_mean.json",
+      "bytes": 6463,
+      "sha256": "32305947294c99f66ff3bf24548bc16ad69515125b86caf2dc64a914b54e5409"
+    },
+    {
+      "path": "macbook/show_results.py",
+      "bytes": 1858,
+      "sha256": "b66fe58c255031c4d70afd971d2b5e54c9ad91328fbf9af03c39cc3d3f9648dc"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "best_epoch": 3,
+  "best_validation_score": 1.2496982216835022,
+  "test": {
+    "auc": 0.7855106592178345,
+    "acc": 46.51162922382355,
+    "f1": 0.3716467618942261,
+    "loss": 1.4110230754974276
+  },
+  "test_evaluation": "C:\\Users\\gmikh\\Documents\\Project A\\Project_A_Starter_Code\\results\\BRACS_baseline_windows\\heldout_test",
+  "test_checkpoint_sha256": "869585488200a3f674a8334f8b52728b1e41dff810d540da4e8f187f4d919483"
+}

@@ -1,0 +1,39 @@
+Research C16 fragility: epochs=30, matched_baseline_splits=True; no test inference
+Epoch 1/30: train={'loss': 0.6756061168987889, 'acc': 60.743801652892564} validation={'auc': 0.9147727489471436, 'acc': 77.77777910232544, 'f1': 0.75, 'loss': 0.5063866238903116} best=1 seconds=5.1
+Epoch 2/30: train={'loss': 0.5005505552444672, 'acc': 75.20661157024793} validation={'auc': 0.9943181276321411, 'acc': 92.59259104728699, 'f1': 0.9205882549285889, 'loss': 0.2624525024676351} best=2 seconds=4.6
+Epoch 3/30: train={'loss': 0.319761284464995, 'acc': 85.53719008264463} validation={'auc': 1.0, 'acc': 96.29629850387573, 'f1': 0.9621318578720093, 'loss': 0.12830779507176313} best=3 seconds=4.4
+Epoch 4/30: train={'loss': 0.265319612352678, 'acc': 90.9090909090909} validation={'auc': 1.0, 'acc': 96.29629850387573, 'f1': 0.9621318578720093, 'loss': 0.11038158368396749} best=3 seconds=4.5
+Epoch 5/30: train={'loss': 0.21651870390730973, 'acc': 92.56198347107438} validation={'auc': 1.0, 'acc': 96.29629850387573, 'f1': 0.9621318578720093, 'loss': 0.10566776621593127} best=3 seconds=4.4
+Epoch 6/30: train={'loss': 0.19056299827732368, 'acc': 91.73553719008264} validation={'auc': 1.0, 'acc': 96.29629850387573, 'f1': 0.9621318578720093, 'loss': 0.14968150616874368} best=3 seconds=4.4
+Epoch 7/30: train={'loss': 0.23794906094882703, 'acc': 91.73553719008264} validation={'auc': 1.0, 'acc': 96.29629850387573, 'f1': 0.9621318578720093, 'loss': 0.12226981664182361} best=3 seconds=4.5
+Epoch 8/30: train={'loss': 0.1569014742661482, 'acc': 95.04132231404958} validation={'auc': 1.0, 'acc': 96.29629850387573, 'f1': 0.9621318578720093, 'loss': 0.08197966647147871} best=3 seconds=4.4
+Epoch 9/30: train={'loss': 0.16277561303056337, 'acc': 92.14876033057851} validation={'auc': 1.0, 'acc': 96.29629850387573, 'f1': 0.9621318578720093, 'loss': 0.0961273139949915} best=3 seconds=4.5
+Epoch 10/30: train={'loss': 0.15844341632347447, 'acc': 93.38842975206612} validation={'auc': 1.0, 'acc': 96.29629850387573, 'f1': 0.9621318578720093, 'loss': 0.07593459078125112} best=3 seconds=4.4
+Epoch 11/30: train={'loss': 0.09206790299374305, 'acc': 95.86776859504133} validation={'auc': 1.0, 'acc': 96.29629850387573, 'f1': 0.9621318578720093, 'loss': 0.04059800222079465} best=3 seconds=4.4
+Epoch 12/30: train={'loss': 0.08395788086637121, 'acc': 96.69421487603306} validation={'auc': 1.0, 'acc': 100.0, 'f1': 1.0, 'loss': 0.038469236723043594} best=12 seconds=4.5
+Epoch 13/30: train={'loss': 0.06402487910474058, 'acc': 97.52066115702479} validation={'auc': 1.0, 'acc': 100.0, 'f1': 1.0, 'loss': 0.015426814720199038} best=12 seconds=4.5
+Epoch 14/30: train={'loss': 0.06109754551829735, 'acc': 97.52066115702479} validation={'auc': 1.0, 'acc': 100.0, 'f1': 1.0, 'loss': 0.0033697418941666564} best=12 seconds=4.4
+Epoch 15/30: train={'loss': 0.0463002703790177, 'acc': 98.7603305785124} validation={'auc': 1.0, 'acc': 100.0, 'f1': 1.0, 'loss': 0.0029811559881412425} best=12 seconds=4.5
+Epoch 16/30: train={'loss': 0.04135357718815261, 'acc': 99.17355371900827} validation={'auc': 1.0, 'acc': 100.0, 'f1': 1.0, 'loss': 0.0034922302804503147} best=12 seconds=4.9
+Epoch 17/30: train={'loss': 0.02686234284702144, 'acc': 98.7603305785124} validation={'auc': 1.0, 'acc': 100.0, 'f1': 1.0, 'loss': 0.0031207093505740443} best=12 seconds=4.5
+Epoch 18/30: train={'loss': 0.023329696548714782, 'acc': 99.17355371900827} validation={'auc': 1.0, 'acc': 100.0, 'f1': 1.0, 'loss': 0.0013949463115436713} best=12 seconds=5.0
+Epoch 19/30: train={'loss': 0.02139718939270819, 'acc': 99.58677685950413} validation={'auc': 1.0, 'acc': 100.0, 'f1': 1.0, 'loss': 0.0013326313107466217} best=12 seconds=4.7
+Epoch 20/30: train={'loss': 0.017227314342489405, 'acc': 99.58677685950413} validation={'auc': 1.0, 'acc': 100.0, 'f1': 1.0, 'loss': 0.0016250799704827748} best=12 seconds=4.8
+Epoch 21/30: train={'loss': 0.015730532084131027, 'acc': 99.58677685950413} validation={'auc': 1.0, 'acc': 100.0, 'f1': 1.0, 'loss': 0.002526968231787005} best=12 seconds=4.5
+Epoch 22/30: train={'loss': 0.01166828727821162, 'acc': 100.0} validation={'auc': 1.0, 'acc': 100.0, 'f1': 1.0, 'loss': 0.00075086833016487} best=12 seconds=4.5
+Epoch 23/30: train={'loss': 0.010319362913163444, 'acc': 99.58677685950413} validation={'auc': 1.0, 'acc': 100.0, 'f1': 1.0, 'loss': 0.005523296269113376} best=12 seconds=4.5
+Epoch 24/30: train={'loss': 0.010870049340788262, 'acc': 100.0} validation={'auc': 1.0, 'acc': 100.0, 'f1': 1.0, 'loss': 0.00401039385374965} best=12 seconds=4.5
+Epoch 25/30: train={'loss': 0.010313175256846129, 'acc': 99.58677685950413} validation={'auc': 1.0, 'acc': 100.0, 'f1': 1.0, 'loss': 0.0006835169380807913} best=12 seconds=4.5
+Epoch 26/30: train={'loss': 0.003870513872192669, 'acc': 100.0} validation={'auc': 1.0, 'acc': 100.0, 'f1': 1.0, 'loss': 0.0004944554015409081} best=12 seconds=4.6
+Epoch 27/30: train={'loss': 0.006378886358264911, 'acc': 100.0} validation={'auc': 1.0, 'acc': 100.0, 'f1': 1.0, 'loss': 0.001359246156009472} best=12 seconds=4.6
+Epoch 28/30: train={'loss': 0.0038495223300271026, 'acc': 100.0} validation={'auc': 1.0, 'acc': 100.0, 'f1': 1.0, 'loss': 0.0038121412375383976} best=12 seconds=4.5
+Epoch 29/30: train={'loss': 0.004470962141099119, 'acc': 100.0} validation={'auc': 1.0, 'acc': 100.0, 'f1': 1.0, 'loss': 0.0006053080166334249} best=12 seconds=4.6
+Epoch 30/30: train={'loss': 0.003214929089764833, 'acc': 100.0} validation={'auc': 1.0, 'acc': 100.0, 'f1': 1.0, 'loss': 0.0127697991078898} best=12 seconds=4.5
+{
+  "best_epoch": 12,
+  "best_validation_score": 2.0,
+  "kind": "full research run",
+  "matched_baseline_splits": true,
+  "test_evaluated": false,
+  "method": "fragility"
+}

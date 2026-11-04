@@ -1,0 +1,11 @@
+BRACS: evaluated 50/86 test slides
+{
+  "dataset": "BRACS",
+  "best_epoch": 19,
+  "test": {
+    "auc": 0.7050787210464478,
+    "acc": 33.72093141078949,
+    "f1": 0.23164930939674377,
+    "loss": 2.1113127365777427
+  }
+}

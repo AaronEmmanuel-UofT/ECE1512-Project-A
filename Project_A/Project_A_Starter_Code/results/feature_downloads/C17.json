@@ -1,0 +1,7 @@
+{
+  "dataset": "C17",
+  "bytes": 4076878344,
+  "sha256": "6c9dd83f6af398773a45da57e4f1f69d6269ecfa74821d8d4f72799f92b86e42",
+  "source": "https://huggingface.co/datasets/LeonYe/ECE1512-WSI-Feature/resolve/6df7ef4b42b7ecd11633722a392a1efc6d80bcc7/feature/C17/patch_feats_pretrain_medical_ssl.h5",
+  "passed": true
+}

@@ -1,0 +1,47 @@
+{
+  "run": "C:\\Users\\gmikh\\Documents\\Project A\\Project_A_Starter_Code\\results\\C17_baseline_windows",
+  "dataset": "CAMELYON17",
+  "method": "abmil",
+  "seed": 42,
+  "completed_epochs": 30,
+  "best_epoch": 21,
+  "selection_rule": "maximum validation macro AUROC + macro F1; earliest tie",
+  "checkpoint_sha256": "64f905a7f714078bb59ea467a346338fe3bc1cf719cf0b4e1bbd43fa5dc2c8b7",
+  "splits_sha256": "f15bc5be2fc1dc0127a5eabaf7db5e5bbbc6a28b1607cade724fa3797c3df67f",
+  "training_source_sha256": {
+    "train.py": "b9f85a95fd2db7acbaca41d2d7c1f4fa1e7b43ef5b4422f29c4ae0511fdf212c",
+    "model.py": "fb5ff5b176924ad84e4e8a522b4e7365e4bca9de3cd05bd85f44a901a14968ef",
+    "model_hybrid.py": "b17ebaee49963aaee95ea30b96abfb615959c540f0d063e9c031871a9cce0efd",
+    "engine.py": "af6d03269e5196ee23deb7227b2625e11f27d8514e6382854084063f403ceaec",
+    "dataloader.py": "b1ac1fe2ec32a83f804f26e7de1e79ec61217371024e3b21a7be8c707147e33e",
+    "utils.py": "31e195da1e6be7f653fa2c7fb69fc23bab9e11fd7595345ebe6ed84af83c4ccd"
+  },
+  "evaluator_sha256": "bbdb3d48873dfaf6d9f3203009826159ff688ec7dc23df24452c7723a7977f7b",
+  "data_file": "C:\\Users\\gmikh\\Documents\\Project A\\Project_A_Starter_Code\\feature\\C17\\patch_feats_pretrain_medical_ssl.h5",
+  "data_bytes": 4076878344,
+  "test_slides": 200,
+  "class_count": 4,
+  "device": "cpu",
+  "cpu_threads": 1,
+  "python": "3.9.5",
+  "torch": "2.8.0+cpu",
+  "created_utc": "2026-10-30T00:26:42.186252+00:00",
+  "benchmark": true,
+  "metrics": {
+    "auc": 0.8226243257522583,
+    "acc": 78.50000262260437,
+    "f1": 0.552007257938385,
+    "loss": 0.7969473106399709
+  },
+  "metric_crosscheck": "passed against scikit-learn",
+  "validation_at_selected_epoch": {
+    "epoch": 21,
+    "train_loss": 0.10333613579690906,
+    "train_acc": 97.02602230483271,
+    "val_auc": 0.8854395151138306,
+    "val_acc": 89.99999761581421,
+    "val_f1": 0.7855691313743591,
+    "val_loss": 0.45333895789566064
+  },
+  "status": "complete"
+}

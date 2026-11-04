@@ -1,0 +1,7 @@
+{
+  "dataset": "BRACS",
+  "bytes": 4235044448,
+  "sha256": "72a787e628f30a8d440fb698bd2de05edfe82e082c2bb6865c5aea4dd8e8e5bc",
+  "source": "https://huggingface.co/datasets/LeonYe/ECE1512-WSI-Feature/resolve/6df7ef4b42b7ecd11633722a392a1efc6d80bcc7/feature/BRACS/patch_feats_pretrain_medical_ssl.h5",
+  "passed": true
+}

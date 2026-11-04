@@ -1,0 +1,8 @@
+,predicted_0,predicted_1,predicted_2,predicted_3,predicted_4,predicted_5,predicted_6
+true_0,2,4,0,0,0,0,0
+true_1,3,7,2,0,3,0,1
+true_2,1,4,3,0,0,1,0
+true_3,0,5,3,1,1,1,0
+true_4,3,3,2,0,0,3,1
+true_5,2,3,6,0,0,0,1
+true_6,0,0,0,0,0,2,18

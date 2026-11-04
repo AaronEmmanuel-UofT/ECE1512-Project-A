@@ -1,0 +1,67 @@
+{
+  "kind": "synthetic software verification; not benchmark performance",
+  "python": "3.9.5 (tags/v3.9.5:0a7dcbd, May  3 2021, 17:27:52) [MSC v.1928 64 bit (AMD64)]",
+  "executable": "C:\\Users\\gmikh\\Documents\\Project A\\.venv\\Scripts\\python.exe",
+  "metric_crosscheck": "PASS: sklearn agrees for 2, 4 and 7 classes",
+  "datasets": {
+    "C16": {
+      "status": "PASS",
+      "split_sizes": {
+        "train": 72,
+        "val": 8,
+        "test": 20
+      },
+      "checks": [
+        "finite feature audit",
+        "NaN rejection",
+        "2 CLI epochs",
+        "all artifacts",
+        "validation checkpoint selection",
+        "test opt-in",
+        "overwrite protection",
+        "2 hybrid CLI epochs with identical split IDs"
+      ],
+      "warnings": []
+    },
+    "C17": {
+      "status": "PASS",
+      "split_sizes": {
+        "train": 43,
+        "val": 5,
+        "test": 48
+      },
+      "checks": [
+        "finite feature audit",
+        "NaN rejection",
+        "2 CLI epochs",
+        "all artifacts",
+        "validation checkpoint selection",
+        "test opt-in",
+        "overwrite protection",
+        "2 hybrid CLI epochs with identical split IDs"
+      ],
+      "warnings": [
+        "train/val: 5 shared patients; do not claim patient-independent evaluation"
+      ]
+    },
+    "BRACS": {
+      "status": "PASS",
+      "split_sizes": {
+        "train": 28,
+        "val": 28,
+        "test": 28
+      },
+      "checks": [
+        "finite feature audit",
+        "NaN rejection",
+        "2 CLI epochs",
+        "all artifacts",
+        "validation checkpoint selection",
+        "test opt-in",
+        "overwrite protection",
+        "2 hybrid CLI epochs with identical split IDs"
+      ],
+      "warnings": []
+    }
+  }
+}

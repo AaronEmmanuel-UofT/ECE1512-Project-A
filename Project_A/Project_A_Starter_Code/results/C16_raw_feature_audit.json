@@ -1,0 +1,15 @@
+{
+  "slides": 398,
+  "class_counts": {
+    "0": 238,
+    "1": 160
+  },
+  "feature_dimensions": [
+    384
+  ],
+  "patches_min": 153,
+  "patches_max": 55917,
+  "all_feature_values_scanned": true,
+  "errors": [],
+  "passed": true
+}

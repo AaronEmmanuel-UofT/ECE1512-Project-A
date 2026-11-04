@@ -1,0 +1,38 @@
+{
+  "checkpoint": "results/C16_baseline_windows/best_state.pt",
+  "checkpoint_sha256": "4d147e97708fe9fd4b66719ee89336fa125949aff0fe9df42575fcb236c89f61",
+  "selected_epoch": 3,
+  "patch_size_level0_assumed": 512,
+  "coordinates": "level-0 (x,y), assumed top-left patch corners",
+  "color": "within-slide attention percentile; not tumor probability",
+  "slides": {
+    "test_068": {
+      "patches": 15037,
+      "label": 1,
+      "probabilities": [
+        0.012285416014492512,
+        0.9877146482467651
+      ],
+      "attention_sum": 1.0000007152557373,
+      "dimensions": [
+        97792,
+        221184
+      ],
+      "annotation_contours": 45
+    },
+    "test_067": {
+      "patches": 11926,
+      "label": 0,
+      "probabilities": [
+        0.9551068544387817,
+        0.04489319026470184
+      ],
+      "attention_sum": 1.0000005960464478,
+      "dimensions": [
+        97280,
+        221184
+      ],
+      "annotation_contours": 0
+    }
+  }
+}

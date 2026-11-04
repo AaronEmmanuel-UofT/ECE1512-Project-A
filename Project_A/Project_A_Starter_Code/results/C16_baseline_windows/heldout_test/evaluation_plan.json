@@ -1,0 +1,30 @@
+{
+  "run": "C:\\Users\\gmikh\\Documents\\Project A\\Project_A_Starter_Code\\results\\C16_baseline_windows",
+  "dataset": "CAMELYON16",
+  "method": "abmil",
+  "seed": 42,
+  "completed_epochs": 30,
+  "best_epoch": 3,
+  "selection_rule": "maximum validation macro AUROC + macro F1; earliest tie",
+  "checkpoint_sha256": "4d147e97708fe9fd4b66719ee89336fa125949aff0fe9df42575fcb236c89f61",
+  "splits_sha256": "a15931d70fdf7fa621e5c71cd39065797336239a2ece6a234fc99dbed0e8a5ea",
+  "training_source_sha256": {
+    "train.py": "b9f85a95fd2db7acbaca41d2d7c1f4fa1e7b43ef5b4422f29c4ae0511fdf212c",
+    "model.py": "fb5ff5b176924ad84e4e8a522b4e7365e4bca9de3cd05bd85f44a901a14968ef",
+    "model_hybrid.py": "b17ebaee49963aaee95ea30b96abfb615959c540f0d063e9c031871a9cce0efd",
+    "engine.py": "af6d03269e5196ee23deb7227b2625e11f27d8514e6382854084063f403ceaec",
+    "dataloader.py": "b1ac1fe2ec32a83f804f26e7de1e79ec61217371024e3b21a7be8c707147e33e",
+    "utils.py": "31e195da1e6be7f653fa2c7fb69fc23bab9e11fd7595345ebe6ed84af83c4ccd"
+  },
+  "evaluator_sha256": "1a21bdc32ac772c3fe99847cb33052d681514beb25c30ef9f549f728d15eb450",
+  "data_file": "C:\\Users\\gmikh\\Documents\\Project A\\Project_A_Starter_Code\\feature\\C16\\patch_feats_pretrain_medical_ssl.h5",
+  "data_bytes": 7222943888,
+  "test_slides": 129,
+  "class_count": 2,
+  "device": "cpu",
+  "cpu_threads": 1,
+  "python": "3.9.5",
+  "torch": "2.8.0+cpu",
+  "created_utc": "2026-10-29T23:58:06.333044+00:00",
+  "benchmark": true
+}

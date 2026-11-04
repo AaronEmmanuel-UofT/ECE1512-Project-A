@@ -1,0 +1,118 @@
+test_cutoff_ties_are_symmetric_and_remove_exact_budget (research.test_fragility.FragilityTests) ... ok
+test_extreme_score_stability_and_uniform_ties (research.test_fragility.FragilityTests) ... ok
+test_gate_formula_effective_weights_and_finite_gradients (research.test_fragility.FragilityTests) ... ok
+test_invalid_settings_and_masks (research.test_fragility.FragilityTests) ... ok
+test_no_probe_exact_baseline_and_parameter_parity (research.test_fragility.FragilityTests) ... ok
+test_padding_order_and_single_patch (research.test_fragility.FragilityTests) ... ok
+Research C16 fragility: epochs=2, matched_baseline_splits=None; no test inference
+Epoch 1/2: train={'loss': 0.6817650198936462, 'acc': 58.333333333333336} validation={'auc': 1.0, 'acc': 100.0, 'f1': 1.0, 'loss': 0.6028538346290588} best=1 seconds=0.8
+Epoch 2/2: train={'loss': 0.5407451221512424, 'acc': 100.0} validation={'auc': 1.0, 'acc': 100.0, 'f1': 1.0, 'loss': 0.4808264560997486} best=1 seconds=0.7
+test_synthetic_training_all_datasets_and_controls (research.test_fragility.FragilityTests) ... C:\Users\gmikh\Documents\Project A\.venv\lib\site-packages\matplotlib\_fontconfig_pattern.py:85: PyparsingDeprecationWarning: 'parseString' deprecated - use 'parse_string'
+  parse = parser.parseString(pattern)
+C:\Users\gmikh\Documents\Project A\.venv\lib\site-packages\matplotlib\_fontconfig_pattern.py:89: PyparsingDeprecationWarning: 'resetCache' deprecated - use 'reset_cache'
+  parser.resetCache()
+C:\Users\gmikh\Documents\Project A\.venv\lib\site-packages\matplotlib\_mathtext.py:2010: PyparsingDeprecationWarning: 'oneOf' deprecated - use 'one_of'
+  p.space          = oneOf(self._space_widths)("space")
+C:\Users\gmikh\Documents\Project A\.venv\lib\site-packages\matplotlib\_mathtext.py:2012: PyparsingDeprecationWarning: 'oneOf' deprecated - use 'one_of'
+  p.style_literal  = oneOf(
+C:\Users\gmikh\Documents\Project A\.venv\lib\site-packages\matplotlib\_mathtext.py:2015: PyparsingDeprecationWarning: 'leaveWhitespace' deprecated - use 'leave_whitespace'
+  p.symbol         = Regex(
+C:\Users\gmikh\Documents\Project A\.venv\lib\site-packages\matplotlib\_mathtext.py:2024: PyparsingDeprecationWarning: 'oneOf' deprecated - use 'one_of'
+  p.start_group    = Optional(r"\math" + oneOf(self._fontnames)("font")) + "{"
+C:\Users\gmikh\Documents\Project A\.venv\lib\site-packages\matplotlib\_mathtext.py:2027: PyparsingDeprecationWarning: 'oneOf' deprecated - use 'one_of'
+  p.delim          = oneOf(self._delims)
+C:\Users\gmikh\Documents\Project A\.venv\lib\site-packages\matplotlib\_mathtext.py:1984: PyparsingDeprecationWarning: 'setName' deprecated - use 'set_name'
+  val.setName(key)
+C:\Users\gmikh\Documents\Project A\.venv\lib\site-packages\matplotlib\_mathtext.py:1987: PyparsingDeprecationWarning: 'setParseAction' deprecated - use 'set_parse_action'
+  val.setParseAction(getattr(self, key))
+C:\Users\gmikh\Documents\Project A\.venv\lib\site-packages\matplotlib\_mathtext.py:1748: PyparsingDeprecationWarning: 'setParseAction' deprecated - use 'set_parse_action'
+  return Empty().setParseAction(raise_error)
+C:\Users\gmikh\Documents\Project A\.venv\lib\site-packages\matplotlib\_mathtext.py:2088: PyparsingDeprecationWarning: 'endQuoteChar' argument is deprecated, use 'end_quote_char'
+  p.text = cmd(r"\text", QuotedString('{', '\\', endQuoteChar="}"))
+C:\Users\gmikh\Documents\Project A\.venv\lib\site-packages\matplotlib\_mathtext.py:2097: PyparsingDeprecationWarning: 'oneOf' deprecated - use 'one_of'
+  + OneOrMore(oneOf(["_", "^"]) - p.placeable)("subsuper")
+C:\Users\gmikh\Documents\Project A\.venv\lib\site-packages\matplotlib\_mathtext.py:2146: PyparsingDeprecationWarning: 'unquoteResults' argument is deprecated, use 'unquote_results'
+  p.math_string   = QuotedString('$', '\\', unquoteResults=False)
+C:\Users\gmikh\Documents\Project A\.venv\lib\site-packages\matplotlib\_mathtext.py:2147: PyparsingDeprecationWarning: 'leaveWhitespace' deprecated - use 'leave_whitespace'
+  p.non_math      = Regex(r"(?:(?:\\[$])|[^$])*").leaveWhitespace()
+C:\Users\gmikh\Documents\Project A\.venv\lib\site-packages\matplotlib\_mathtext.py:2170: PyparsingDeprecationWarning: 'parseString' deprecated - use 'parse_string'
+  result = self._expression.parseString(s)
+C:\Users\gmikh\Documents\Project A\.venv\lib\site-packages\matplotlib\_mathtext.py:2197: PyparsingDeprecationWarning: 'parseString' deprecated - use 'parse_string'
+  return self._math_expression.parseString(toks[0][1:-1], parseAll=True)
+C:\Users\gmikh\Documents\Project A\.venv\lib\site-packages\pyparsing\util.py:466: PyparsingDeprecationWarning: 'parseAll' argument is deprecated, use 'parse_all'
+  return fn(self, *args, **kwargs)
+C:\Users\gmikh\Documents\Project A\.venv\lib\site-packages\matplotlib\_mathtext.py:2178: PyparsingDeprecationWarning: 'resetCache' deprecated - use 'reset_cache'
+  ParserElement.resetCache()
+{
+  "kind": "validation diagnostics; not held-out performance",
+  "dataset": "CAMELYON16",
+  "method": "fragility",
+  "epochs": 2,
+  "best_epoch": 1,
+  "benchmark": false,
+  "test_evaluated": false,
+  "metrics": {
+    "auc": 1.0,
+    "acc": 100.0,
+    "f1": 1.0,
+    "loss": 0.6028538346290588
+  },
+  "checkpoint_sha256": "8feb2ba548766cb889d1ba1a238692935bbb30664d47a1b3bbd8e3fab38ec4e7",
+  "analyzer_sha256": "48a984461027360e424d32d20d783149f9b220c43774d77cc737f0b5097a4a12",
+  "validation_slides": 8,
+  "source_sha256": {
+    "model.py": "fb5ff5b176924ad84e4e8a522b4e7365e4bca9de3cd05bd85f44a901a14968ef",
+    "model_hybrid.py": "b17ebaee49963aaee95ea30b96abfb615959c540f0d063e9c031871a9cce0efd",
+    "model_fragility.py": "bc520166acab7660d98681e1f33a380d2eb21d6c6e93d4ccd952809d44e6c5b2",
+    "engine.py": "af6d03269e5196ee23deb7227b2625e11f27d8514e6382854084063f403ceaec",
+    "dataloader.py": "b1ac1fe2ec32a83f804f26e7de1e79ec61217371024e3b21a7be8c707147e33e",
+    "utils.py": "31e195da1e6be7f653fa2c7fb69fc23bab9e11fd7595345ebe6ed84af83c4ccd",
+    "research/train_extension.py": "111458241422d69c5b1a93f18b11a3edb4a6b02acfdb4507b88182b1b8d3ecc6"
+  },
+  "metric_crosscheck": "passed against scikit-learn",
+  "alpha_summary": {
+    "count": 8.0,
+    "mean": 0.0016681123524904251,
+    "std": 0.0011542384070150388,
+    "min": 0.00025357306003570557,
+    "25%": 0.0009244196116924286,
+    "50%": 0.0015001296997070312,
+    "75%": 0.001986909657716751,
+    "max": 0.003882497549057007
+  },
+  "attention_to_hybrid_prediction_flips": 0,
+  "mean_alpha_by_correctness": {
+    "True": 0.0016681123524904251
+  }
+}
+{
+  "dataset": "CAMELYON16",
+  "best_epoch": 1,
+  "test": {
+    "auc": 1.0,
+    "acc": 100.0,
+    "f1": 1.0,
+    "loss": 0.6021166473627091
+  }
+}
+Research C16 abmil: epochs=2, matched_baseline_splits=None; no test inference
+Epoch 1/2: train={'loss': 0.6817649304866791, 'acc': 58.333333333333336} validation={'auc': 1.0, 'acc': 100.0, 'f1': 1.0, 'loss': 0.6028536334633827} best=1 seconds=0.7
+Epoch 2/2: train={'loss': 0.5407441949678792, 'acc': 100.0} validation={'auc': 1.0, 'acc': 100.0, 'f1': 1.0, 'loss': 0.4808253087103367} best=1 seconds=0.6
+Research C16 attention_mean: epochs=2, matched_baseline_splits=None; no test inference
+Epoch 1/2: train={'loss': 0.6817939703663191, 'acc': 58.333333333333336} validation={'auc': 1.0, 'acc': 100.0, 'f1': 1.0, 'loss': 0.6029104515910149} best=1 seconds=0.6
+Epoch 2/2: train={'loss': 0.5408627096977499, 'acc': 100.0} validation={'auc': 1.0, 'acc': 100.0, 'f1': 1.0, 'loss': 0.4809873253107071} best=1 seconds=0.6
+Research C16 mean: epochs=2, matched_baseline_splits=None; no test inference
+Epoch 1/2: train={'loss': 0.6818229431907336, 'acc': 58.333333333333336} validation={'auc': 1.0, 'acc': 100.0, 'f1': 1.0, 'loss': 0.6029671058058739} best=1 seconds=0.6
+Epoch 2/2: train={'loss': 0.5409805890586641, 'acc': 100.0} validation={'auc': 1.0, 'acc': 100.0, 'f1': 1.0, 'loss': 0.4811481907963753} best=1 seconds=0.7
+Research C17 fragility: epochs=2, matched_baseline_splits=None; no test inference
+Epoch 1/2: train={'loss': 1.4129367845002996, 'acc': 23.25581395348837} validation={'auc': 0.6041666269302368, 'acc': 40.00000059604645, 'f1': 0.1666666716337204, 'loss': 1.294357681274414} best=1 seconds=0.5
+Epoch 2/2: train={'loss': 1.3175338076990704, 'acc': 32.55813953488372} validation={'auc': 0.875, 'acc': 60.00000238418579, 'f1': 0.4166666865348816, 'loss': 1.2087918639183044} best=2 seconds=0.5
+Research BRACS fragility: epochs=2, matched_baseline_splits=None; no test inference
+Epoch 1/2: train={'loss': 1.974908092192241, 'acc': 3.5714285714285716} validation={'auc': 0.558035671710968, 'acc': 25.0, 'f1': 0.12761151790618896, 'loss': 1.940950755562101} best=1 seconds=0.4
+Epoch 2/2: train={'loss': 1.9168460411684853, 'acc': 28.571428571428573} validation={'auc': 0.7008928656578064, 'acc': 35.71428656578064, 'f1': 0.2539682686328888, 'loss': 1.8830041587352753} best=2 seconds=0.4
+ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 18.645s
+
+OK

@@ -1,0 +1,8 @@
+{
+  "best_epoch": 12,
+  "best_validation_score": 2.0,
+  "kind": "full research run",
+  "matched_baseline_splits": true,
+  "test_evaluated": false,
+  "method": "fragility"
+}

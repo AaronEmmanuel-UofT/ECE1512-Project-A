@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+feature/
+slide/*
+!slide/provenance.json
+!slide/test_068.xml
+results/*
+!results/C16_baseline_windows/
+!results/MAC_C17_abmil_seed42/
+!results/MAC_BRACS_abmil_seed42/
+!results/C16_attention/
+!results/*_feature_provenance.json
+.idea/

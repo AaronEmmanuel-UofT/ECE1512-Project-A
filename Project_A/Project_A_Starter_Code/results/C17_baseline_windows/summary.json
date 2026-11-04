@@ -1,0 +1,12 @@
+{
+  "best_epoch": 21,
+  "best_validation_score": 1.6710086464881897,
+  "test": {
+    "auc": 0.8226243257522583,
+    "acc": 78.50000262260437,
+    "f1": 0.552007257938385,
+    "loss": 0.7969473106399709
+  },
+  "test_evaluation": "C:\\Users\\gmikh\\Documents\\Project A\\Project_A_Starter_Code\\results\\C17_baseline_windows\\heldout_test",
+  "test_checkpoint_sha256": "64f905a7f714078bb59ea467a346338fe3bc1cf719cf0b4e1bbd43fa5dc2c8b7"
+}

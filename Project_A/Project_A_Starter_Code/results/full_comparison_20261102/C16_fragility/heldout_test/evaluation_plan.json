@@ -1,0 +1,31 @@
+{
+  "run": "/Users/aaronemmanuel/Documents/Codex/2026-10-28/george-sent-the-ece1512-project-a/outputs/Project_A/Project_A_Starter_Code/results/full_comparison_20261102/C16_fragility",
+  "dataset": "CAMELYON16",
+  "method": "fragility",
+  "seed": 42,
+  "completed_epochs": 30,
+  "best_epoch": 12,
+  "selection_rule": "maximum validation macro AUROC + macro F1; earliest tie",
+  "checkpoint_sha256": "328ff0d0042df54fbe26aa14d175a7b3fd9903c28f41cf8cef3f9c06fbd211d0",
+  "splits_sha256": "5aae7e8ae7188781f27c29fbb24dfb6f8646475a6b3d9cb968899288b8a3321e",
+  "training_source_sha256": {
+    "model.py": "fb5ff5b176924ad84e4e8a522b4e7365e4bca9de3cd05bd85f44a901a14968ef",
+    "model_hybrid.py": "b17ebaee49963aaee95ea30b96abfb615959c540f0d063e9c031871a9cce0efd",
+    "model_fragility.py": "bc520166acab7660d98681e1f33a380d2eb21d6c6e93d4ccd952809d44e6c5b2",
+    "engine.py": "af6d03269e5196ee23deb7227b2625e11f27d8514e6382854084063f403ceaec",
+    "dataloader.py": "b1ac1fe2ec32a83f804f26e7de1e79ec61217371024e3b21a7be8c707147e33e",
+    "utils.py": "31e195da1e6be7f653fa2c7fb69fc23bab9e11fd7595345ebe6ed84af83c4ccd",
+    "research/train_extension.py": "111458241422d69c5b1a93f18b11a3edb4a6b02acfdb4507b88182b1b8d3ecc6"
+  },
+  "evaluator_sha256": "e3e7203b8e9831193296049eaf0c160c232e25e718213ae94c1971a30b9129ac",
+  "data_file": "/Users/aaronemmanuel/Documents/Codex/2026-10-28/george-sent-the-ece1512-project-a/outputs/Project_A/Project_A_Starter_Code/feature/C16/patch_feats_pretrain_medical_ssl.h5",
+  "data_bytes": 7222943888,
+  "test_slides": 129,
+  "class_count": 2,
+  "device": "cpu",
+  "cpu_threads": 2,
+  "python": "3.12.14",
+  "torch": "2.8.0",
+  "created_utc": "2026-11-03T00:21:00.929424+00:00",
+  "benchmark": true
+}

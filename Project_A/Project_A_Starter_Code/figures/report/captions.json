@@ -1,0 +1,90 @@
+[
+  {
+    "file": "figure_01.png",
+    "caption": "Figure 1. Whole-slide classification with a fixed feature encoder. Original schematic based on multiple instance learning [1]. N denotes the patch count and D the feature dimension. Purple modules are trainable; the dashed path represents slide-level supervision. The tile grid is illustrative rather than a histology image."
+  },
+  {
+    "file": "figure_02.png",
+    "caption": "Figure 2. Original arithmetic example of pooling. Three scalar features are zero and one is one. Mean, scalar max and an illustrative attention distribution produce 0.25, 1.00 and 0.70. Attention weights are chosen, not learned or measured here. The example illustrates pooling [1]; it is not a classification result or a plot of tissue probabilities."
+  },
+  {
+    "file": "figure_03.png",
+    "caption": "Figure 3. Original simplified comparison of ABMIL [1], CLAM [2] and DSMIL [3]. CLAM adds training supervision from attention-derived pseudo labels; DSMIL uses a critical instance to guide its bag stream and combines instance and bag scores. The orange dashed branch is an auxiliary training objective. Feature encoders and class-specific implementation details are omitted."
+  },
+  {
+    "file": "figure_04.png",
+    "caption": "Figure 4. Original conceptual comparison based on ABMIL [1] and TransMIL [4]. Arrows on the right summarize token interaction, not a complete transformer computation graph. PPEG is a position module within the sequence pipeline. A class token participates in the transformer processing and supplies the final readout; it is omitted from the input row for clarity."
+  },
+  {
+    "file": "figure_05.png",
+    "caption": "Figure 5. Original simplified DTFD-MIL schematic based on [5]. Each pseudo-bag inherits the parent slide label for first-tier training; distilled features then support a second-tier slide prediction. The number of groups is illustrative. The diagram does not imply that the groups have independent patient identities or verified patch labels."
+  },
+  {
+    "file": "figure_06.png",
+    "caption": "Figure 6. Original training schematic based on MHIM-MIL [6] and ACMIL [7]. MHIM-MIL uses teacher attention to guide masking and a teacher prediction for consistency. The teacher follows an exponential moving average of student parameters, an update omitted here. Auxiliary branch heads and detailed loss connections are omitted. Both methods remove masking for inference."
+  },
+  {
+    "file": "figure_07.png",
+    "caption": "Figure 7. Actual class counts from the preflight audits. Validation and test class proportions differ from training, particularly for C17 and BRACS. Numeric IDs are retained to avoid unsupported clinical labels."
+  },
+  {
+    "file": "figure_08.png",
+    "caption": "Figure 8. Illustrative two-slide batch, not an experimental observation. The model must exclude padded entries even though they occupy positions in the tensor. A learned linear bias means a zero input alone is not enough to guarantee a zero pooling contribution."
+  },
+  {
+    "file": "figure_09.png",
+    "caption": "Figure 9. Gated attention combines two nonlinear branches before scalar scoring and patch normalization. The sigmoid within this scorer differs from the slide-level mixing coefficient defined for the pooling extension."
+  },
+  {
+    "file": "figure_10.png",
+    "caption": "Figure 10. Validation selects the checkpoint; held-out test measures that already-selected checkpoint. All 30 epochs are trained even if the best checkpoint occurs early. The selected epoch is not necessarily the epoch with minimum validation loss."
+  },
+  {
+    "file": "figure_11.png",
+    "caption": "Figure 11. Training and validation cross-entropy across all 30 epochs. Each panel has its own vertical scale. Dashed lines mark selection by validation AUROC plus macro F1, not selection by minimum loss."
+  },
+  {
+    "file": "figure_12.png",
+    "caption": "Figure 12. Held-out confusion matrices. Rows are true classes and columns predicted classes. Numbers are slide counts; colour is normalized within each row so minority-class errors remain visible. Dark diagonal cells indicate high recall."
+  },
+  {
+    "file": "figure_13.png",
+    "caption": "Figure 13. One-versus-rest receiver operating characteristic (ROC) curves recomputed from the saved test probabilities. Each curve treats one class as positive and all other classes as negative. The dotted diagonal indicates chance ranking. Curve labels show class-specific AUROC rather than its macro average."
+  },
+  {
+    "file": "figure_14.png",
+    "caption": "Figure 14. One-versus-rest precision\u2013recall curves from saved probabilities. Average precision (AP) summarizes each class curve and was not used to select checkpoints. Different class prevalences imply different chance precision levels."
+  },
+  {
+    "file": "figure_15.png",
+    "caption": "Figure 15. C16 negative slide test_067. The original tissue view and attention overlay show the relative distribution of pooling weights in a correctly classified negative slide. The color scale is a within-slide percentile, so brightly colored tissue need not represent disease."
+  },
+  {
+    "file": "figure_16.png",
+    "caption": "Figure 16. C16 positive slide test_068. Green curves mark the supplied tumour annotation contours, the blue box indicates the enlarged region, and the overlay shows within-slide attention percentiles. Some high-weight regions coincide visually with annotated tissue, but this selected example does not establish localization sensitivity or specificity."
+  },
+  {
+    "file": "figure_17.png",
+    "caption": "Figure 17. The implemented extension. A shared projection and attention scorer supply the attention vector and a suppression probe. The change between two class distributions controls the final feature mixture. The classifier weights are shared across all three classifier evaluations."
+  },
+  {
+    "file": "figure_18.png",
+    "caption": "Figure 18. An illustrative four-patch example, not measured pathology data. With attention weights 0.70, 0.10, 0.10, 0.10 and alpha 0.40, effective weights become 0.52, 0.16, 0.16, 0.16. The diagnostic gate therefore changes how strongly the most attended patch dominates pooling."
+  },
+  {
+    "file": "figure_19.png",
+    "caption": "Figure 19. Full 30-epoch ABMIL and adaptive-pooling histories. Color identifies the method; solid lines show training cross-entropy and dashed lines validation cross-entropy. Each dataset has its own vertical scale. The curves describe optimization and validation behavior; test data do not select epochs."
+  },
+  {
+    "file": "figure_20.png",
+    "caption": "Figure 20. Held-out macro F1 for ABMIL, fixed 50/50 attention\u2013mean pooling, pure mean and adaptive pooling. All panels use the same zero-to-one scale. Labels are single-seed point estimates; no error bars or significance claim are implied. Test sample sizes are shown in each panel."
+  },
+  {
+    "file": "figure_21.png",
+    "caption": "Figure 21. Adaptive-pooling held-out confusion matrices. Rows are true class IDs and columns are predictions. Cell labels are slide counts; shading represents within-row recall on a common zero-to-one scale. The ABMIL matrices in Figure 12 provide the corresponding baseline reference."
+  },
+  {
+    "file": "figure_22.png",
+    "caption": "Figure 22. Adaptive mean weight versus valid patch count on held-out slides. Circles identify correct predictions and crosses errors; the horizontal axis is logarithmic and the vertical scale is shared. These plots are descriptive and were not used to choose a diagnostic threshold or probe setting."
+  }
+]

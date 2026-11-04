@@ -1,0 +1,11 @@
+{
+  "dataset": "C17",
+  "retrieved_date_local": "2026-10-27",
+  "source": "https://huggingface.co/datasets/LeonYe/ECE1512-WSI-Feature/resolve/main/feature/C17/patch_feats_pretrain_medical_ssl.h5",
+  "repository_revision": "6df7ef4b42b7ecd11633722a392a1efc6d80bcc7",
+  "file": "feature/C17/patch_feats_pretrain_medical_ssl.h5",
+  "bytes": 4076878344,
+  "published_sha256": "6c9dd83f6af398773a45da57e4f1f69d6269ecfa74821d8d4f72799f92b86e42",
+  "measured_sha256": "6c9dd83f6af398773a45da57e4f1f69d6269ecfa74821d8d4f72799f92b86e42",
+  "hash_match": true
+}

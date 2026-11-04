@@ -1,0 +1,80 @@
+{
+  "C16": {
+    "ABMIL": {
+      "checkpoint_sha256": "4d147e97708fe9fd4b66719ee89336fa125949aff0fe9df42575fcb236c89f61",
+      "predictions_sha256": "ed707cc2f17d1ea9df785414db9f68b264a4f86b84967a28035dec0a3bbdd616",
+      "metrics": "independently verified",
+      "exact_splits": true
+    },
+    "Fragility": {
+      "checkpoint_sha256": "328ff0d0042df54fbe26aa14d175a7b3fd9903c28f41cf8cef3f9c06fbd211d0",
+      "predictions_sha256": "303711e550ac698e2ca794b36485f318b84508c59502f75e55d12b2dff8b843e",
+      "metrics": "independently verified",
+      "exact_splits": true,
+      "maximum_gate_recomputation_error": 5.486879994798244e-08
+    },
+    "Mean": {
+      "checkpoint_sha256": "a4715482c477cc925001f5f2fc834f8a3ea10118d54fe3e357771dcf84b45fe3",
+      "predictions_sha256": "2d32c86cc68c1638cf81ccaac14f03694590f689076d3494e9c1f056509fda88",
+      "metrics": "independently verified",
+      "exact_splits": true
+    },
+    "Fixed 50/50": {
+      "checkpoint_sha256": "6ef417b57499fba5180f7e84e264dd4f299afdd51c0166864c2b507f8f818080",
+      "exact_splits": true,
+      "limitation": "Original aggregate held-out record; per-slide probabilities not retained"
+    }
+  },
+  "C17": {
+    "ABMIL": {
+      "checkpoint_sha256": "64f905a7f714078bb59ea467a346338fe3bc1cf719cf0b4e1bbd43fa5dc2c8b7",
+      "predictions_sha256": "5d24c31d1f8c67ea55757ed079a0553adc02a8aac1f7f7b077aabde3adee0762",
+      "metrics": "independently verified",
+      "exact_splits": true
+    },
+    "Fragility": {
+      "checkpoint_sha256": "7b5513d90f5d2d663bbe96b1ad2d5bfe7def140b89d8f4c37c2eac9ca0bdb560",
+      "predictions_sha256": "7ea76046b6407bc02ec9c77b5bbefd6799863c8f2b0352cf8e9e0d32b1b0b2cd",
+      "metrics": "independently verified",
+      "exact_splits": true,
+      "maximum_gate_recomputation_error": 7.977205240816687e-08
+    },
+    "Mean": {
+      "checkpoint_sha256": "d34b30338418bb37df397aec5898dceb7f7254b7ab580fdf0f97807eab01b043",
+      "predictions_sha256": "9fdb75ea8061fbc9cf1533ae7c99335601843f151968bbf3874b943f846c82b5",
+      "metrics": "independently verified",
+      "exact_splits": true
+    },
+    "Fixed 50/50": {
+      "checkpoint_sha256": "e8c30e4862e3688f13b49a7b63596c78c7210bef57441ca0450ba7e3987a0ed6",
+      "exact_splits": true,
+      "limitation": "Original aggregate held-out record; per-slide probabilities not retained"
+    }
+  },
+  "BRACS": {
+    "ABMIL": {
+      "checkpoint_sha256": "869585488200a3f674a8334f8b52728b1e41dff810d540da4e8f187f4d919483",
+      "predictions_sha256": "6a0863bc1507e4809a427e1fd988ffcfe713e7a4b65eb19d38d85081d07cc926",
+      "metrics": "independently verified",
+      "exact_splits": true
+    },
+    "Fragility": {
+      "checkpoint_sha256": "314d59d5f6f0a4f64e2b96a455caf8774b6c719e3d0c4e604c63326fa69e613f",
+      "predictions_sha256": "a81b3823fea4f8b7daf11e61e933f094a40dc3cf0f1a6b04aad66d5c90db19ef",
+      "metrics": "independently verified",
+      "exact_splits": true,
+      "maximum_gate_recomputation_error": 1.129540894151404e-07
+    },
+    "Mean": {
+      "checkpoint_sha256": "a3712a89fae8560795a00573ed2b21ecce1650cff6bf56570cf4fdf86f24c715",
+      "predictions_sha256": "091b2c31648f1602a49041e0af7a70eea558a2a744ba4ca9947dd37440513df6",
+      "metrics": "independently verified",
+      "exact_splits": true
+    },
+    "Fixed 50/50": {
+      "checkpoint_sha256": "f1902b5e5021ca3fac166877208e2374c7cff54d6f817f6547f734ef2ce49fd8",
+      "exact_splits": true,
+      "limitation": "Original aggregate held-out record; per-slide probabilities not retained"
+    }
+  }
+}

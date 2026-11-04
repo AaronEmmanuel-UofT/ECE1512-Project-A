@@ -1,0 +1,48 @@
+{
+  "run": "/Users/aaronemmanuel/Documents/Codex/2026-10-28/george-sent-the-ece1512-project-a/outputs/Project_A/Project_A_Starter_Code/results/full_comparison_20261102/C17_mean",
+  "dataset": "CAMELYON17",
+  "method": "mean",
+  "seed": 42,
+  "completed_epochs": 30,
+  "best_epoch": 2,
+  "selection_rule": "maximum validation macro AUROC + macro F1; earliest tie",
+  "checkpoint_sha256": "d34b30338418bb37df397aec5898dceb7f7254b7ab580fdf0f97807eab01b043",
+  "splits_sha256": "0784d306079d07963eedef05bd0dc516e16c71905fa49eacf9d6df2736db795e",
+  "training_source_sha256": {
+    "model.py": "fb5ff5b176924ad84e4e8a522b4e7365e4bca9de3cd05bd85f44a901a14968ef",
+    "model_hybrid.py": "b17ebaee49963aaee95ea30b96abfb615959c540f0d063e9c031871a9cce0efd",
+    "model_fragility.py": "bc520166acab7660d98681e1f33a380d2eb21d6c6e93d4ccd952809d44e6c5b2",
+    "engine.py": "af6d03269e5196ee23deb7227b2625e11f27d8514e6382854084063f403ceaec",
+    "dataloader.py": "b1ac1fe2ec32a83f804f26e7de1e79ec61217371024e3b21a7be8c707147e33e",
+    "utils.py": "31e195da1e6be7f653fa2c7fb69fc23bab9e11fd7595345ebe6ed84af83c4ccd",
+    "research/train_extension.py": "111458241422d69c5b1a93f18b11a3edb4a6b02acfdb4507b88182b1b8d3ecc6"
+  },
+  "evaluator_sha256": "e3e7203b8e9831193296049eaf0c160c232e25e718213ae94c1971a30b9129ac",
+  "data_file": "/Users/aaronemmanuel/Documents/Codex/2026-10-28/george-sent-the-ece1512-project-a/outputs/Project_A/Project_A_Starter_Code/feature/C17/patch_feats_pretrain_medical_ssl.h5",
+  "data_bytes": 4076878344,
+  "test_slides": 200,
+  "class_count": 4,
+  "device": "cpu",
+  "cpu_threads": 2,
+  "python": "3.12.14",
+  "torch": "2.8.0",
+  "created_utc": "2026-11-03T00:21:12.467608+00:00",
+  "benchmark": true,
+  "metrics": {
+    "auc": 0.704499363899231,
+    "acc": 60.50000190734863,
+    "f1": 0.18847352266311646,
+    "loss": 0.9928109817206859
+  },
+  "metric_crosscheck": "passed against scikit-learn",
+  "validation_at_selected_epoch": {
+    "epoch": 2,
+    "train_loss": 0.9697494481354398,
+    "train_acc": 65.79925650557621,
+    "val_auc": 0.5537087917327881,
+    "val_acc": 66.66666865348816,
+    "val_f1": 0.20000000298023224,
+    "val_loss": 0.9998205448190371
+  },
+  "status": "complete"
+}

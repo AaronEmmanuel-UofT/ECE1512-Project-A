@@ -1,0 +1,18 @@
+{
+  "updated_utc": "2026-11-03T00:21:17.144961+00:00",
+  "stage": "Full extension and mean-control experiments complete",
+  "completed": [
+    "C16 fragility: full training verified",
+    "C17 fragility: full training verified",
+    "BRACS fragility: full training verified",
+    "C16 mean: full training verified",
+    "C17 mean: full training verified",
+    "BRACS mean: full training verified",
+    "C16 fragility: held-out evaluation saved",
+    "C17 fragility: held-out evaluation saved",
+    "BRACS fragility: held-out evaluation saved",
+    "C16 mean: held-out evaluation saved",
+    "C17 mean: held-out evaluation saved",
+    "BRACS mean: held-out evaluation saved"
+  ]
+}

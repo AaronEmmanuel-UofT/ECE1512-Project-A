@@ -1,0 +1,16 @@
+{
+  "best_epoch": 19,
+  "best_validation_score": 1.1302940249443054,
+  "kind": "full research run",
+  "matched_baseline_splits": true,
+  "test_evaluated": false,
+  "method": "fragility",
+  "test": {
+    "auc": 0.7050787210464478,
+    "acc": 33.72093141078949,
+    "f1": 0.23164930939674377,
+    "loss": 2.1113127365777427
+  },
+  "test_evaluation": "/Users/aaronemmanuel/Documents/Codex/2026-10-28/george-sent-the-ece1512-project-a/outputs/Project_A/Project_A_Starter_Code/results/full_comparison_20261102/BRACS_fragility/heldout_test",
+  "test_checkpoint_sha256": "314d59d5f6f0a4f64e2b96a455caf8774b6c719e3d0c4e604c63326fa69e613f"
+}

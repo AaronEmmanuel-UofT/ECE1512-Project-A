@@ -1,0 +1,52 @@
+{
+  "dataset": "BRACS",
+  "file": "C:\\Users\\gmikh\\Documents\\Project A\\Project_A_Starter_Code\\feature\\BRACS\\patch_feats_pretrain_medical_ssl.h5",
+  "file_bytes": 4235044448,
+  "splits": {
+    "train": {
+      "slides": 389,
+      "class_counts": {
+        "0": 24,
+        "1": 119,
+        "2": 54,
+        "3": 24,
+        "4": 28,
+        "5": 40,
+        "6": 100
+      }
+    },
+    "val": {
+      "slides": 62,
+      "class_counts": {
+        "0": 10,
+        "1": 10,
+        "2": 7,
+        "3": 6,
+        "4": 8,
+        "5": 9,
+        "6": 12
+      }
+    },
+    "test": {
+      "slides": 86,
+      "class_counts": {
+        "0": 6,
+        "1": 16,
+        "2": 9,
+        "3": 11,
+        "4": 12,
+        "5": 12,
+        "6": 20
+      }
+    }
+  },
+  "feature_dimensions": [
+    384
+  ],
+  "patches_min": 155,
+  "patches_max": 30340,
+  "all_feature_values_scanned": true,
+  "errors": [],
+  "warnings": [],
+  "passed": true
+}

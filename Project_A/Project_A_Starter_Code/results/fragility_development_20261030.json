@@ -1,0 +1,74 @@
+{
+  "status": "PASS",
+  "kind": "research development pilot; not a benchmark",
+  "date_toronto": "2026-10-30",
+  "tests": 7,
+  "test_log_sha256": "fb64ee4332f157579ac156b023402bcd59dea4dd600a11f1f9d485a88907671f",
+  "datasets": {
+    "C16": {
+      "original_core_sources_unchanged": true,
+      "exact_baseline_split_ids": true,
+      "two_debug_epochs_complete": true,
+      "validation_metrics_reproduced": true,
+      "no_real_test_evaluation": true,
+      "source_snapshot_verified": true
+    },
+    "C17": {
+      "original_core_sources_unchanged": true,
+      "exact_baseline_split_ids": true,
+      "two_debug_epochs_complete": true,
+      "validation_metrics_reproduced": true,
+      "no_real_test_evaluation": true,
+      "source_snapshot_verified": true
+    },
+    "BRACS": {
+      "original_core_sources_unchanged": true,
+      "exact_baseline_split_ids": true,
+      "two_debug_epochs_complete": true,
+      "validation_metrics_reproduced": true,
+      "no_real_test_evaluation": true,
+      "source_snapshot_verified": true
+    }
+  },
+  "rows": [
+    {
+      "dataset": "C16",
+      "epochs": 2,
+      "selected_epoch": 2,
+      "validation_accuracy": 92.59259104728699,
+      "validation_auc": 0.9943182468414307,
+      "validation_macro_f1": 0.9205882549285889,
+      "mean_alpha": 0.1682289953481544,
+      "median_alpha": 0.04595201462507248,
+      "max_alpha": 0.8125362396240234,
+      "training_loss_first": 0.6756061019360526,
+      "training_loss_last": 0.5005505671053605
+    },
+    {
+      "dataset": "C17",
+      "epochs": 2,
+      "selected_epoch": 2,
+      "validation_accuracy": 66.66666865348816,
+      "validation_auc": 0.5595741868019104,
+      "validation_macro_f1": 0.20000000298023224,
+      "mean_alpha": 0.022266025639449558,
+      "median_alpha": 0.02639717422425747,
+      "max_alpha": 0.0406070351600647,
+      "training_loss_first": 1.0553391835614208,
+      "training_loss_last": 0.9655568581420693
+    },
+    {
+      "dataset": "BRACS",
+      "epochs": 2,
+      "selected_epoch": 1,
+      "validation_accuracy": 32.258063554763794,
+      "validation_auc": 0.6777617335319519,
+      "validation_macro_f1": 0.17761991918087006,
+      "mean_alpha": 0.11733654492925252,
+      "median_alpha": 0.08517064899206161,
+      "max_alpha": 0.5610311627388,
+      "training_loss_first": 1.6078807598597593,
+      "training_loss_last": 1.283735972663967
+    }
+  ]
+}

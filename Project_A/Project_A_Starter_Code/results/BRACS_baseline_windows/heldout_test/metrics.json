@@ -1,0 +1,47 @@
+{
+  "run": "C:\\Users\\gmikh\\Documents\\Project A\\Project_A_Starter_Code\\results\\BRACS_baseline_windows",
+  "dataset": "BRACS",
+  "method": "abmil",
+  "seed": 42,
+  "completed_epochs": 30,
+  "best_epoch": 3,
+  "selection_rule": "maximum validation macro AUROC + macro F1; earliest tie",
+  "checkpoint_sha256": "869585488200a3f674a8334f8b52728b1e41dff810d540da4e8f187f4d919483",
+  "splits_sha256": "00df4a9a15c380a95d2bd13ebc94c3c6b200b174b3621058c4c3e473acedef7a",
+  "training_source_sha256": {
+    "train.py": "b9f85a95fd2db7acbaca41d2d7c1f4fa1e7b43ef5b4422f29c4ae0511fdf212c",
+    "model.py": "fb5ff5b176924ad84e4e8a522b4e7365e4bca9de3cd05bd85f44a901a14968ef",
+    "model_hybrid.py": "b17ebaee49963aaee95ea30b96abfb615959c540f0d063e9c031871a9cce0efd",
+    "engine.py": "af6d03269e5196ee23deb7227b2625e11f27d8514e6382854084063f403ceaec",
+    "dataloader.py": "b1ac1fe2ec32a83f804f26e7de1e79ec61217371024e3b21a7be8c707147e33e",
+    "utils.py": "31e195da1e6be7f653fa2c7fb69fc23bab9e11fd7595345ebe6ed84af83c4ccd"
+  },
+  "evaluator_sha256": "bbdb3d48873dfaf6d9f3203009826159ff688ec7dc23df24452c7723a7977f7b",
+  "data_file": "C:\\Users\\gmikh\\Documents\\Project A\\Project_A_Starter_Code\\feature\\BRACS\\patch_feats_pretrain_medical_ssl.h5",
+  "data_bytes": 4235044448,
+  "test_slides": 86,
+  "class_count": 7,
+  "device": "cpu",
+  "cpu_threads": 1,
+  "python": "3.9.5",
+  "torch": "2.8.0+cpu",
+  "created_utc": "2026-10-30T00:37:43.251685+00:00",
+  "benchmark": true,
+  "metrics": {
+    "auc": 0.7855106592178345,
+    "acc": 46.51162922382355,
+    "f1": 0.3716467618942261,
+    "loss": 1.4110230754974276
+  },
+  "metric_crosscheck": "passed against scikit-learn",
+  "validation_at_selected_epoch": {
+    "epoch": 3,
+    "train_loss": 1.056985452706545,
+    "train_acc": 61.43958868894602,
+    "val_auc": 0.8068410754203796,
+    "val_acc": 56.45161271095276,
+    "val_f1": 0.44285714626312256,
+    "val_loss": 1.3999742478162291
+  },
+  "status": "complete"
+}

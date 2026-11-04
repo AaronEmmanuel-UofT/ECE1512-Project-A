@@ -1,0 +1,13 @@
+{
+  "python": "3.12.14",
+  "platform": "macOS-26.6.2-arm64-arm-64bit",
+  "machine": "arm64",
+  "cpu_threads": 2,
+  "accelerator": "none",
+  "software_checks": {
+    "command": "python -m unittest research.test_fragility -v",
+    "tests": 7,
+    "result": "passed"
+  },
+  "feature_data": "All three complete feature SHA-256 hashes reverified against the fixed revision before new held-out evaluation."
+}

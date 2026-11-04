@@ -1,0 +1,14 @@
+CAMELYON17: evaluated 50/200 test slides
+CAMELYON17: evaluated 100/200 test slides
+CAMELYON17: evaluated 150/200 test slides
+CAMELYON17: evaluated 200/200 test slides
+{
+  "dataset": "CAMELYON17",
+  "best_epoch": 19,
+  "test": {
+    "auc": 0.8427832722663879,
+    "acc": 78.50000262260437,
+    "f1": 0.5217751860618591,
+    "loss": 0.6752540392041192
+  }
+}
