@@ -11,7 +11,6 @@ regularization is the second proposal; it is not implemented.
 ## Report and Source
 
 - [PDF report](Project_A_Report.pdf)
-- [Editable Word report](Project_A_Report.docx)
 - [Source, notebooks, results and figures](ECE1512_ProjectA_Source_and_Results.zip)
 
 Clone this repository, or extract the complete code/results archive into an empty directory. It contains a `Project_A` folder.
